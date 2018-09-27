@@ -8,3 +8,4 @@ class Population:
 
     def addIndividual(i):
         individuals.append(i)
+        

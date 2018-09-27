@@ -1,9 +1,12 @@
 class Individual:
-    representation = ''
+    representation = []
     fitness = 0
 
-    def f(self, rep):
-        representation = rep
+    def f(self):
+        return 0
 
-    def setFitness(val):
-        fitness = val
+    def setRepresentation(self,rep):
+        self.representation = rep
+
+    def setFitness(self,val):
+        self.fitness = val

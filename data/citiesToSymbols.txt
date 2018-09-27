@@ -1,0 +1,8 @@
+London,L
+Venice,V
+Dunedin,D
+Singapore,S
+Beijing,B
+Phoenix,P
+Tokyo,T
+Victoria,W

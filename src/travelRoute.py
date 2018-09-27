@@ -3,18 +3,18 @@ import random
 class TravelRoute:
     route = []
     
-    def f(self, rep):
+    def f(self):
         return 0
 
-    def setRoute(cities):
+    def setRoute(self,cities):
         if(cities is list):
-            route = cities
+            self.route = cities
         else:
             print('Error! Only acceptable input is a list!')
 
-    def genRoute(cityList):
+    def genRoute(self,cityList):
         for city in cityList:
-            route.append(city)
+            self.route.append(city)
 
-        random.shuffle(route)
+        random.shuffle(self.route)
 
