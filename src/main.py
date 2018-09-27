@@ -1,5 +1,6 @@
 
 FILE_NAME = '..\data\cities.txt'
+cityNames = []
 
 def parseCities():
     cities = {}
@@ -27,5 +28,5 @@ def generatePopulation(size=10):
 
 if __name__ == "__main__":
     mCities = parseCities()
-    print(mCities)
+    
 
