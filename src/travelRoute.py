@@ -1,10 +1,10 @@
 import random
 
-class TravelRoute:
-    route = []
-    
-    def f(self):
-        return 0
+class TravelRoute(object):
+    #route
+
+    def __init__(self):
+        self.route = []
 
     def setRoute(self,cities):
         if(cities is list):

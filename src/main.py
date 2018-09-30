@@ -7,6 +7,8 @@ sys.path.insert(0,'utils')
 import alexTools
 
 FILE_NAME = '..\data\cities.txt'
+STREAM_FILE = '..\data\iterations.txt'
+SOLUTION_FILE = '..\data\solution.txt'
 cityNames = []
 
 def parseCities():
@@ -31,22 +33,70 @@ def parseCities():
     f.close()
     return cities
 
+def getSymbolMap():
+    file = open('..\data\citiesToSymbols.txt')
+    symbolMap = {}
+
+    for line in file:
+        temp = line.split(',')
+        symbolMap[temp[0].rstrip()] = temp[1].rstrip()
+
+    return symbolMap
+
 def generatePopulation(size=10):
     pop = Population()
+
     for i in range(0,size):
-        print(i)
+        tR =TravelRoute()
+        tR.genRoute(cityNames)
+
+        ind = alexTools.travelRouteToIndividual(tR,sMap)
+        alexTools.determineFitnessOfTravelRoute(sMap,mCities,ind)
+
+        pop.addIndividual(ind)
+
+    return pop
+def writeIteration
+
+def GA(pop,repetitions=1000):
+    file1 = open(STREAM_FILE)
+    file2 = open(STREAM_FILE)
+
+    for ind in pop.individuals:
+        print(ind.representation)
+        print(ind.fitness)
+    
+    pop.evaluateFitness()
+    print(pop.totalFitness)
+    print('\n ++++++++++++++++++++++++++ \n')
+    for i in range(0,repetitions):
+        alexTools.selectionOfTravelRoutes(pop,5)
+        pop.orderOneCrossover(5,4)
+        pop.nonRepeatMut(15)
+
+        for ind in pop.individuals:
+            alexTools.determineFitnessOfTravelRoute(sMap,mCities,ind)
+
+        for ind in pop.individuals:
+            print(ind.representation)
+            print(ind.fitness)
+
+        pop.evaluateFitness()
+        print(pop.totalFitness)
+        print('\n ++++++++++++++++++++++++++ \n')
 
     
 if __name__ == "__main__":
+    global mCities
     mCities = parseCities()
-    print(cityNames)
+    global sMap
+    sMap = getSymbolMap()
+    
+    mPop = generatePopulation()
 
-    citiesToSymbolsFile = open('..\data\citiesToSymbols.txt')
-    route = TravelRoute()
-    route.genRoute(cityNames)
-    print(route.route)
-    ind = alexTools.travelRouteToIndividual(route,citiesToSymbolsFile)
-    print(ind.representation)
+    GA(mPop)
+
+    
     
     
 

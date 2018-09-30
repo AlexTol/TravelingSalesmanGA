@@ -1,9 +1,10 @@
-class Individual:
-    representation = []
-    fitness = 0
+class Individual(object):
+    #representation
+    #fitness
 
-    def f(self):
-        return 0
+    def __init__(self):
+        self.representation = []
+        self.fitness = 0
 
     def setRepresentation(self,rep):
         self.representation = rep
