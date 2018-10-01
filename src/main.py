@@ -7,8 +7,8 @@ sys.path.insert(0,'utils')
 import alexTools
 
 FILE_NAME = '..\data\cities.txt'
-STREAM_FILE = '..\data\iterations.txt'
-SOLUTION_FILE = '..\data\solution.txt'
+STREAM_FILE = '..\data\AlexTol_GA_TS_Info.txt'
+SOLUTION_FILE = '..\data\AlexTol_GA_TS_Result.txt'
 cityNames = []
 
 def parseCities():
@@ -56,11 +56,36 @@ def generatePopulation(size=10):
         pop.addIndividual(ind)
 
     return pop
-def writeIteration
+
+def writeIteration(pop,file,selected):
+    file.write('Population Size: ' + str(len(pop.individuals)) + '   for iteration ' + str(pop.generations) + '\n')
+    file.write('Average Fitness Score: ' + str(pop.getAverage()) + '\n')
+    file.write('Median Fitness Score: ' + str(pop.getMedian()) + '\n')
+    file.write('STD of Fitness Scores: ' + str(pop.getStandardDeviation()) + '\n')
+    file.write('Size of selected subset: ' + str((selected)) + '\n')
+    file.write('\n')
+
+def writeResults(pop,symbolMap):
+    rsMap = {v:k for k,v in symbolMap.items()}
+    file = open(SOLUTION_FILE, "w+")
+    bestInd = ''
+
+    for ind in pop.individuals:
+        if(bestInd == ''):
+            bestInd = ind
+        elif(ind.fitness < bestInd.fitness):
+            bestInd = ind
+        
+        counter = 1
+    for c in bestInd.representation:
+        file.write('City ' + str(counter) + ' / ' + rsMap[c] + '\n')
+        counter = counter + 1
+    
+
+
 
 def GA(pop,repetitions=1000):
-    file1 = open(STREAM_FILE)
-    file2 = open(STREAM_FILE)
+    file2 = open(STREAM_FILE, "w+")
 
     for ind in pop.individuals:
         print(ind.representation)
@@ -84,6 +109,8 @@ def GA(pop,repetitions=1000):
         pop.evaluateFitness()
         print(pop.totalFitness)
         print('\n ++++++++++++++++++++++++++ \n')
+        pop.generations = pop.generations + 1
+        writeIteration(pop,file2,5)
 
     
 if __name__ == "__main__":
@@ -94,7 +121,8 @@ if __name__ == "__main__":
     
     mPop = generatePopulation()
 
-    GA(mPop)
+    GA(mPop,1000)
+    writeResults(mPop,sMap)
 
     
     

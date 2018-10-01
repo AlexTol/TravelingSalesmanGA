@@ -1,0 +1,6000 @@
+Population Size: 10   for iteration 2
+Average Fitness Score: 35458.8
+Median Fitness Score: 36042
+STD of Fitness Scores: 5078.867015388373
+Size of selected subset: 5
+
+Population Size: 10   for iteration 3
+Average Fitness Score: 33798.3
+Median Fitness Score: 32217
+STD of Fitness Scores: 5638.801948109191
+Size of selected subset: 5
+
+Population Size: 10   for iteration 4
+Average Fitness Score: 30731.7
+Median Fitness Score: 28572
+STD of Fitness Scores: 5037.991783439112
+Size of selected subset: 5
+
+Population Size: 10   for iteration 5
+Average Fitness Score: 30004.3
+Median Fitness Score: 27261
+STD of Fitness Scores: 6427.846483076583
+Size of selected subset: 5
+
+Population Size: 10   for iteration 6
+Average Fitness Score: 27933.9
+Median Fitness Score: 26786
+STD of Fitness Scores: 6489.014261812036
+Size of selected subset: 5
+
+Population Size: 10   for iteration 7
+Average Fitness Score: 24972.2
+Median Fitness Score: 26698
+STD of Fitness Scores: 3451.6
+Size of selected subset: 5
+
+Population Size: 10   for iteration 8
+Average Fitness Score: 24934.2
+Median Fitness Score: 26698
+STD of Fitness Scores: 3730.697811402044
+Size of selected subset: 5
+
+Population Size: 10   for iteration 9
+Average Fitness Score: 24288.0
+Median Fitness Score: 26698
+STD of Fitness Scores: 6622.524171341317
+Size of selected subset: 5
+
+Population Size: 10   for iteration 10
+Average Fitness Score: 24589.3
+Median Fitness Score: 22362
+STD of Fitness Scores: 6323.440852099432
+Size of selected subset: 5
+
+Population Size: 10   for iteration 11
+Average Fitness Score: 20220.7
+Median Fitness Score: 21491
+STD of Fitness Scores: 2203.504756064756
+Size of selected subset: 5
+
+Population Size: 10   for iteration 12
+Average Fitness Score: 19804.6
+Median Fitness Score: 18069
+STD of Fitness Scores: 4471.330164503623
+Size of selected subset: 5
+
+Population Size: 10   for iteration 13
+Average Fitness Score: 18920.8
+Median Fitness Score: 18069
+STD of Fitness Scores: 3347.1764160259013
+Size of selected subset: 5
+
+Population Size: 10   for iteration 14
+Average Fitness Score: 17498.0
+Median Fitness Score: 18069
+STD of Fitness Scores: 571.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 15
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 16
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 17
+Average Fitness Score: 19750.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 5647.006105893635
+Size of selected subset: 5
+
+Population Size: 10   for iteration 18
+Average Fitness Score: 20403.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 5877.101054091208
+Size of selected subset: 5
+
+Population Size: 10   for iteration 19
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 20
+Average Fitness Score: 18425.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 4496.400000000001
+Size of selected subset: 5
+
+Population Size: 10   for iteration 21
+Average Fitness Score: 19818.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 5788.627202541204
+Size of selected subset: 5
+
+Population Size: 10   for iteration 22
+Average Fitness Score: 17446.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 1557.6
+Size of selected subset: 5
+
+Population Size: 10   for iteration 23
+Average Fitness Score: 18434.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 4155.206277671423
+Size of selected subset: 5
+
+Population Size: 10   for iteration 24
+Average Fitness Score: 18127.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 3602.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 25
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 26
+Average Fitness Score: 18693.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 4953.444765009498
+Size of selected subset: 5
+
+Population Size: 10   for iteration 27
+Average Fitness Score: 17939.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3038.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 28
+Average Fitness Score: 18532.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4472.1499795959435
+Size of selected subset: 5
+
+Population Size: 10   for iteration 29
+Average Fitness Score: 20170.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 4962.566231296062
+Size of selected subset: 5
+
+Population Size: 10   for iteration 30
+Average Fitness Score: 18154.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 3681.6
+Size of selected subset: 5
+
+Population Size: 10   for iteration 31
+Average Fitness Score: 19125.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 4413.925174943499
+Size of selected subset: 5
+
+Population Size: 10   for iteration 32
+Average Fitness Score: 17763.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 2510.4000000000005
+Size of selected subset: 5
+
+Population Size: 10   for iteration 33
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 34
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 35
+Average Fitness Score: 25262.6
+Median Fitness Score: 27056
+STD of Fitness Scores: 8857.838722848819
+Size of selected subset: 5
+
+Population Size: 10   for iteration 36
+Average Fitness Score: 17979.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 3157.2
+Size of selected subset: 5
+
+Population Size: 10   for iteration 37
+Average Fitness Score: 18297.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 3012.5511846274085
+Size of selected subset: 5
+
+Population Size: 10   for iteration 38
+Average Fitness Score: 21402.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 6836.744679304618
+Size of selected subset: 5
+
+Population Size: 10   for iteration 39
+Average Fitness Score: 20729.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 7815.071659940169
+Size of selected subset: 5
+
+Population Size: 10   for iteration 40
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 41
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 42
+Average Fitness Score: 20660.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 7718.868735766918
+Size of selected subset: 5
+
+Population Size: 10   for iteration 43
+Average Fitness Score: 21092.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 7713.680419229202
+Size of selected subset: 5
+
+Population Size: 10   for iteration 44
+Average Fitness Score: 18991.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 4219.294348584844
+Size of selected subset: 5
+
+Population Size: 10   for iteration 45
+Average Fitness Score: 17332.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 1217.6999999999998
+Size of selected subset: 5
+
+Population Size: 10   for iteration 46
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 47
+Average Fitness Score: 19736.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 5733.422315685458
+Size of selected subset: 5
+
+Population Size: 10   for iteration 48
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 49
+Average Fitness Score: 17891.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 2894.1
+Size of selected subset: 5
+
+Population Size: 10   for iteration 50
+Average Fitness Score: 18816.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 3809.0318139915817
+Size of selected subset: 5
+
+Population Size: 10   for iteration 51
+Average Fitness Score: 18586.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4978.8
+Size of selected subset: 5
+
+Population Size: 10   for iteration 52
+Average Fitness Score: 17834.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 2721.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 53
+Average Fitness Score: 20745.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 7641.131649827793
+Size of selected subset: 5
+
+Population Size: 10   for iteration 54
+Average Fitness Score: 17945.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 3054.5999999999995
+Size of selected subset: 5
+
+Population Size: 10   for iteration 55
+Average Fitness Score: 18534.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 4476.937810602243
+Size of selected subset: 5
+
+Population Size: 10   for iteration 56
+Average Fitness Score: 18418.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 4475.700000000001
+Size of selected subset: 5
+
+Population Size: 10   for iteration 57
+Average Fitness Score: 19334.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 4994.2884217874325
+Size of selected subset: 5
+
+Population Size: 10   for iteration 58
+Average Fitness Score: 19167.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4505.75348748686
+Size of selected subset: 5
+
+Population Size: 10   for iteration 59
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 60
+Average Fitness Score: 19961.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 6384.055855018815
+Size of selected subset: 5
+
+Population Size: 10   for iteration 61
+Average Fitness Score: 17289.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 1088.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 62
+Average Fitness Score: 17289.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 1088.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 63
+Average Fitness Score: 19892.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 5162.850035590807
+Size of selected subset: 5
+
+Population Size: 10   for iteration 64
+Average Fitness Score: 18418.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 4475.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 65
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 66
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 67
+Average Fitness Score: 20978.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 6296.332082252333
+Size of selected subset: 5
+
+Population Size: 10   for iteration 68
+Average Fitness Score: 18947.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 4495.28039726111
+Size of selected subset: 5
+
+Population Size: 10   for iteration 69
+Average Fitness Score: 18586.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4978.8
+Size of selected subset: 5
+
+Population Size: 10   for iteration 70
+Average Fitness Score: 18302.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 3111.808479003809
+Size of selected subset: 5
+
+Population Size: 10   for iteration 71
+Average Fitness Score: 20738.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 7621.306213504349
+Size of selected subset: 5
+
+Population Size: 10   for iteration 72
+Average Fitness Score: 20738.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 7827.701246854019
+Size of selected subset: 5
+
+Population Size: 10   for iteration 73
+Average Fitness Score: 18183.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 3428.9163900567773
+Size of selected subset: 5
+
+Population Size: 10   for iteration 74
+Average Fitness Score: 18112.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 3556.8
+Size of selected subset: 5
+
+Population Size: 10   for iteration 75
+Average Fitness Score: 18001.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3224.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 76
+Average Fitness Score: 21386.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 6667.088846715634
+Size of selected subset: 5
+
+Population Size: 10   for iteration 77
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 78
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 79
+Average Fitness Score: 19500.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 5233.945243313116
+Size of selected subset: 5
+
+Population Size: 10   for iteration 80
+Average Fitness Score: 20092.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 7104.482272481227
+Size of selected subset: 5
+
+Population Size: 10   for iteration 81
+Average Fitness Score: 17945.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 3054.5999999999995
+Size of selected subset: 5
+
+Population Size: 10   for iteration 82
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 83
+Average Fitness Score: 18397.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 2768.927077407421
+Size of selected subset: 5
+
+Population Size: 10   for iteration 84
+Average Fitness Score: 17289.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 1088.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 85
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 86
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 87
+Average Fitness Score: 18307.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 2865.5150339860375
+Size of selected subset: 5
+
+Population Size: 10   for iteration 88
+Average Fitness Score: 18586.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4978.8
+Size of selected subset: 5
+
+Population Size: 10   for iteration 89
+Average Fitness Score: 20703.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 5850.331348735728
+Size of selected subset: 5
+
+Population Size: 10   for iteration 90
+Average Fitness Score: 23740.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 8771.937049477727
+Size of selected subset: 5
+
+Population Size: 10   for iteration 91
+Average Fitness Score: 20448.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 6238.920175799655
+Size of selected subset: 5
+
+Population Size: 10   for iteration 92
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 93
+Average Fitness Score: 20542.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 5683.586617620955
+Size of selected subset: 5
+
+Population Size: 10   for iteration 94
+Average Fitness Score: 19418.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 4984.097913364063
+Size of selected subset: 5
+
+Population Size: 10   for iteration 95
+Average Fitness Score: 18320.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4179.299999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 96
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 97
+Average Fitness Score: 19406.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 5912.852923082055
+Size of selected subset: 5
+
+Population Size: 10   for iteration 98
+Average Fitness Score: 18427.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 4501.199999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 99
+Average Fitness Score: 17446.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 1557.6
+Size of selected subset: 5
+
+Population Size: 10   for iteration 100
+Average Fitness Score: 18786.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 5577.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 101
+Average Fitness Score: 17033.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 320.40000000000003
+Size of selected subset: 5
+
+Population Size: 10   for iteration 102
+Average Fitness Score: 18586.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4978.8
+Size of selected subset: 5
+
+Population Size: 10   for iteration 103
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 104
+Average Fitness Score: 20890.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 8056.383283459148
+Size of selected subset: 5
+
+Population Size: 10   for iteration 105
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 106
+Average Fitness Score: 19956.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4672.617985669276
+Size of selected subset: 5
+
+Population Size: 10   for iteration 107
+Average Fitness Score: 19288.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 4935.104101232314
+Size of selected subset: 5
+
+Population Size: 10   for iteration 108
+Average Fitness Score: 18425.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 4496.400000000001
+Size of selected subset: 5
+
+Population Size: 10   for iteration 109
+Average Fitness Score: 18127.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 3602.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 110
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 111
+Average Fitness Score: 21817.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 6703.481376120918
+Size of selected subset: 5
+
+Population Size: 10   for iteration 112
+Average Fitness Score: 18191.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 3793.5
+Size of selected subset: 5
+
+Population Size: 10   for iteration 113
+Average Fitness Score: 23024.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 7991.45146766218
+Size of selected subset: 5
+
+Population Size: 10   for iteration 114
+Average Fitness Score: 20087.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 6330.017630307202
+Size of selected subset: 5
+
+Population Size: 10   for iteration 115
+Average Fitness Score: 19191.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 4285.486045946247
+Size of selected subset: 5
+
+Population Size: 10   for iteration 116
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 117
+Average Fitness Score: 18112.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 3556.7999999999997
+Size of selected subset: 5
+
+Population Size: 10   for iteration 118
+Average Fitness Score: 19313.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 4772.921017574039
+Size of selected subset: 5
+
+Population Size: 10   for iteration 119
+Average Fitness Score: 18786.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 5577.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 120
+Average Fitness Score: 20218.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 5530.028102098578
+Size of selected subset: 5
+
+Population Size: 10   for iteration 121
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 122
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 123
+Average Fitness Score: 20053.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 5476.984032293685
+Size of selected subset: 5
+
+Population Size: 10   for iteration 124
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 125
+Average Fitness Score: 20010.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 5481.6399380112525
+Size of selected subset: 5
+
+Population Size: 10   for iteration 126
+Average Fitness Score: 19089.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 4336.434060377259
+Size of selected subset: 5
+
+Population Size: 10   for iteration 127
+Average Fitness Score: 20493.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 6462.058421277233
+Size of selected subset: 5
+
+Population Size: 10   for iteration 128
+Average Fitness Score: 19041.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4249.426766047392
+Size of selected subset: 5
+
+Population Size: 10   for iteration 129
+Average Fitness Score: 18425.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 4496.400000000001
+Size of selected subset: 5
+
+Population Size: 10   for iteration 130
+Average Fitness Score: 18076.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3449.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 131
+Average Fitness Score: 18154.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 3681.6
+Size of selected subset: 5
+
+Population Size: 10   for iteration 132
+Average Fitness Score: 19996.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 4720.718394481924
+Size of selected subset: 5
+
+Population Size: 10   for iteration 133
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 134
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 135
+Average Fitness Score: 18307.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 2865.5150339860375
+Size of selected subset: 5
+
+Population Size: 10   for iteration 136
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 137
+Average Fitness Score: 17033.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 320.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 138
+Average Fitness Score: 18789.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 4167.484326305259
+Size of selected subset: 5
+
+Population Size: 10   for iteration 139
+Average Fitness Score: 19205.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 4374.8718849813185
+Size of selected subset: 5
+
+Population Size: 10   for iteration 140
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 141
+Average Fitness Score: 20179.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 6587.103437019946
+Size of selected subset: 5
+
+Population Size: 10   for iteration 142
+Average Fitness Score: 18320.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4179.299999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 143
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 144
+Average Fitness Score: 18112.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 3556.7999999999997
+Size of selected subset: 5
+
+Population Size: 10   for iteration 145
+Average Fitness Score: 20305.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 7294.484151740958
+Size of selected subset: 5
+
+Population Size: 10   for iteration 146
+Average Fitness Score: 19695.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4933.7203852670855
+Size of selected subset: 5
+
+Population Size: 10   for iteration 147
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 148
+Average Fitness Score: 18786.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 5577.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 149
+Average Fitness Score: 19772.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 4974.718485502472
+Size of selected subset: 5
+
+Population Size: 10   for iteration 150
+Average Fitness Score: 18560.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 3747.0963278250533
+Size of selected subset: 5
+
+Population Size: 10   for iteration 151
+Average Fitness Score: 20498.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 5585.9404400691565
+Size of selected subset: 5
+
+Population Size: 10   for iteration 152
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 153
+Average Fitness Score: 17939.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3038.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 154
+Average Fitness Score: 19620.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 5434.309980117071
+Size of selected subset: 5
+
+Population Size: 10   for iteration 155
+Average Fitness Score: 18357.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4290.299999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 156
+Average Fitness Score: 17289.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 1088.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 157
+Average Fitness Score: 17891.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 2894.1
+Size of selected subset: 5
+
+Population Size: 10   for iteration 158
+Average Fitness Score: 20085.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 6327.025007062956
+Size of selected subset: 5
+
+Population Size: 10   for iteration 159
+Average Fitness Score: 18434.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4522.799999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 160
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 161
+Average Fitness Score: 18191.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 3793.5
+Size of selected subset: 5
+
+Population Size: 10   for iteration 162
+Average Fitness Score: 18439.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 3500.0967429486864
+Size of selected subset: 5
+
+Population Size: 10   for iteration 163
+Average Fitness Score: 19910.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 5967.6
+Size of selected subset: 5
+
+Population Size: 10   for iteration 164
+Average Fitness Score: 18059.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 3035.68757285726
+Size of selected subset: 5
+
+Population Size: 10   for iteration 165
+Average Fitness Score: 18418.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 4475.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 166
+Average Fitness Score: 19249.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 5859.469533157418
+Size of selected subset: 5
+
+Population Size: 10   for iteration 167
+Average Fitness Score: 17033.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 320.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 168
+Average Fitness Score: 19360.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 3908.0674111381445
+Size of selected subset: 5
+
+Population Size: 10   for iteration 169
+Average Fitness Score: 19691.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 5554.901627391793
+Size of selected subset: 5
+
+Population Size: 10   for iteration 170
+Average Fitness Score: 18308.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 3126.7218936131817
+Size of selected subset: 5
+
+Population Size: 10   for iteration 171
+Average Fitness Score: 18886.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 5879.699999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 172
+Average Fitness Score: 18786.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 5577.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 173
+Average Fitness Score: 18597.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 3853.169401933945
+Size of selected subset: 5
+
+Population Size: 10   for iteration 174
+Average Fitness Score: 18781.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 4487.090639824429
+Size of selected subset: 5
+
+Population Size: 10   for iteration 175
+Average Fitness Score: 17041.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 342.59999999999997
+Size of selected subset: 5
+
+Population Size: 10   for iteration 176
+Average Fitness Score: 18357.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4290.299999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 177
+Average Fitness Score: 18112.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 3556.8
+Size of selected subset: 5
+
+Population Size: 10   for iteration 178
+Average Fitness Score: 19471.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 5182.629758144026
+Size of selected subset: 5
+
+Population Size: 10   for iteration 179
+Average Fitness Score: 17945.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 3054.6
+Size of selected subset: 5
+
+Population Size: 10   for iteration 180
+Average Fitness Score: 20087.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 6330.017630307202
+Size of selected subset: 5
+
+Population Size: 10   for iteration 181
+Average Fitness Score: 22173.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 6736.726333316502
+Size of selected subset: 5
+
+Population Size: 10   for iteration 182
+Average Fitness Score: 19129.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 4409.992336728035
+Size of selected subset: 5
+
+Population Size: 10   for iteration 183
+Average Fitness Score: 18191.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 3793.5
+Size of selected subset: 5
+
+Population Size: 10   for iteration 184
+Average Fitness Score: 17788.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 2584.5
+Size of selected subset: 5
+
+Population Size: 10   for iteration 185
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 186
+Average Fitness Score: 18127.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 3602.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 187
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 188
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 189
+Average Fitness Score: 18846.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3847.094759685547
+Size of selected subset: 5
+
+Population Size: 10   for iteration 190
+Average Fitness Score: 19884.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 5142.234892534569
+Size of selected subset: 5
+
+Population Size: 10   for iteration 191
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 192
+Average Fitness Score: 18759.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 3035.3144960613226
+Size of selected subset: 5
+
+Population Size: 10   for iteration 193
+Average Fitness Score: 19919.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 5984.630181556751
+Size of selected subset: 5
+
+Population Size: 10   for iteration 194
+Average Fitness Score: 18597.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 3853.169401933945
+Size of selected subset: 5
+
+Population Size: 10   for iteration 195
+Average Fitness Score: 19418.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 4712.40270032178
+Size of selected subset: 5
+
+Population Size: 10   for iteration 196
+Average Fitness Score: 20289.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 5365.738871767802
+Size of selected subset: 5
+
+Population Size: 10   for iteration 197
+Average Fitness Score: 19926.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 5998.401066951092
+Size of selected subset: 5
+
+Population Size: 10   for iteration 198
+Average Fitness Score: 17939.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3038.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 199
+Average Fitness Score: 19954.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 4688.790974227792
+Size of selected subset: 5
+
+Population Size: 10   for iteration 200
+Average Fitness Score: 17945.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 3054.599999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 201
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 202
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 203
+Average Fitness Score: 21287.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 6742.2068315945335
+Size of selected subset: 5
+
+Population Size: 10   for iteration 204
+Average Fitness Score: 17041.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 342.59999999999997
+Size of selected subset: 5
+
+Population Size: 10   for iteration 205
+Average Fitness Score: 18840.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3851.527864367594
+Size of selected subset: 5
+
+Population Size: 10   for iteration 206
+Average Fitness Score: 18427.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 4501.199999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 207
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 208
+Average Fitness Score: 18357.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4290.299999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 209
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 210
+Average Fitness Score: 17891.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 2894.1000000000004
+Size of selected subset: 5
+
+Population Size: 10   for iteration 211
+Average Fitness Score: 20485.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 5519.901216507411
+Size of selected subset: 5
+
+Population Size: 10   for iteration 212
+Average Fitness Score: 18902.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 4472.90549419502
+Size of selected subset: 5
+
+Population Size: 10   for iteration 213
+Average Fitness Score: 18532.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4472.1499795959435
+Size of selected subset: 5
+
+Population Size: 10   for iteration 214
+Average Fitness Score: 19204.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 4589.413452719204
+Size of selected subset: 5
+
+Population Size: 10   for iteration 215
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 216
+Average Fitness Score: 20629.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 5753.27489435365
+Size of selected subset: 5
+
+Population Size: 10   for iteration 217
+Average Fitness Score: 18427.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 4501.2
+Size of selected subset: 5
+
+Population Size: 10   for iteration 218
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 219
+Average Fitness Score: 20738.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 7827.701246854021
+Size of selected subset: 5
+
+Population Size: 10   for iteration 220
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 221
+Average Fitness Score: 19653.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 5485.721174102818
+Size of selected subset: 5
+
+Population Size: 10   for iteration 222
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 223
+Average Fitness Score: 17979.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 3157.2
+Size of selected subset: 5
+
+Population Size: 10   for iteration 224
+Average Fitness Score: 17289.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 1088.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 225
+Average Fitness Score: 18076.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3449.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 226
+Average Fitness Score: 18786.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 5577.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 227
+Average Fitness Score: 17033.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 320.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 228
+Average Fitness Score: 17834.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 2721.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 229
+Average Fitness Score: 17979.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 3157.2000000000003
+Size of selected subset: 5
+
+Population Size: 10   for iteration 230
+Average Fitness Score: 18076.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3449.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 231
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 232
+Average Fitness Score: 18418.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 4475.700000000001
+Size of selected subset: 5
+
+Population Size: 10   for iteration 233
+Average Fitness Score: 18154.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 3681.6
+Size of selected subset: 5
+
+Population Size: 10   for iteration 234
+Average Fitness Score: 18786.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 5577.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 235
+Average Fitness Score: 18418.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 4475.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 236
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 237
+Average Fitness Score: 19599.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 5537.158969182662
+Size of selected subset: 5
+
+Population Size: 10   for iteration 238
+Average Fitness Score: 19938.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 4659.808768608429
+Size of selected subset: 5
+
+Population Size: 10   for iteration 239
+Average Fitness Score: 18989.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 4193.798708808042
+Size of selected subset: 5
+
+Population Size: 10   for iteration 240
+Average Fitness Score: 18191.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 3793.5
+Size of selected subset: 5
+
+Population Size: 10   for iteration 241
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 242
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 243
+Average Fitness Score: 17945.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 3054.5999999999995
+Size of selected subset: 5
+
+Population Size: 10   for iteration 244
+Average Fitness Score: 20679.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 5812.720880964439
+Size of selected subset: 5
+
+Population Size: 10   for iteration 245
+Average Fitness Score: 20001.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 4762.339609897639
+Size of selected subset: 5
+
+Population Size: 10   for iteration 246
+Average Fitness Score: 17945.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 3054.6
+Size of selected subset: 5
+
+Population Size: 10   for iteration 247
+Average Fitness Score: 18944.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4038.9634920360445
+Size of selected subset: 5
+
+Population Size: 10   for iteration 248
+Average Fitness Score: 18631.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 3720.996769684166
+Size of selected subset: 5
+
+Population Size: 10   for iteration 249
+Average Fitness Score: 21089.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 8384.57366894704
+Size of selected subset: 5
+
+Population Size: 10   for iteration 250
+Average Fitness Score: 19604.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 5398.622365937444
+Size of selected subset: 5
+
+Population Size: 10   for iteration 251
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 252
+Average Fitness Score: 17033.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 320.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 253
+Average Fitness Score: 17788.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 2584.5
+Size of selected subset: 5
+
+Population Size: 10   for iteration 254
+Average Fitness Score: 20044.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 4763.457358893853
+Size of selected subset: 5
+
+Population Size: 10   for iteration 255
+Average Fitness Score: 19905.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 6317.460952787916
+Size of selected subset: 5
+
+Population Size: 10   for iteration 256
+Average Fitness Score: 17404.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 1104.1402990562385
+Size of selected subset: 5
+
+Population Size: 10   for iteration 257
+Average Fitness Score: 18786.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 5577.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 258
+Average Fitness Score: 17788.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 2584.5
+Size of selected subset: 5
+
+Population Size: 10   for iteration 259
+Average Fitness Score: 17788.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 2584.5
+Size of selected subset: 5
+
+Population Size: 10   for iteration 260
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 261
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 262
+Average Fitness Score: 17834.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 2721.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 263
+Average Fitness Score: 20833.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 6017.539281965678
+Size of selected subset: 5
+
+Population Size: 10   for iteration 264
+Average Fitness Score: 17834.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 2721.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 265
+Average Fitness Score: 21180.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 6578.521251010747
+Size of selected subset: 5
+
+Population Size: 10   for iteration 266
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 267
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 268
+Average Fitness Score: 20019.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 4730.280604784456
+Size of selected subset: 5
+
+Population Size: 10   for iteration 269
+Average Fitness Score: 17446.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 1557.6
+Size of selected subset: 5
+
+Population Size: 10   for iteration 270
+Average Fitness Score: 17033.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 320.40000000000003
+Size of selected subset: 5
+
+Population Size: 10   for iteration 271
+Average Fitness Score: 17834.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 2721.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 272
+Average Fitness Score: 19230.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 6911.1
+Size of selected subset: 5
+
+Population Size: 10   for iteration 273
+Average Fitness Score: 18001.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3224.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 274
+Average Fitness Score: 19262.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 4671.682079294352
+Size of selected subset: 5
+
+Population Size: 10   for iteration 275
+Average Fitness Score: 18001.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3224.7000000000003
+Size of selected subset: 5
+
+Population Size: 10   for iteration 276
+Average Fitness Score: 18886.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 5879.699999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 277
+Average Fitness Score: 17763.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 2510.4000000000005
+Size of selected subset: 5
+
+Population Size: 10   for iteration 278
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 279
+Average Fitness Score: 18645.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 2926.997225827179
+Size of selected subset: 5
+
+Population Size: 10   for iteration 280
+Average Fitness Score: 20811.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 5946.88203683241
+Size of selected subset: 5
+
+Population Size: 10   for iteration 281
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 282
+Average Fitness Score: 17998.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 2876.179940476604
+Size of selected subset: 5
+
+Population Size: 10   for iteration 283
+Average Fitness Score: 20384.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 5433.07247236773
+Size of selected subset: 5
+
+Population Size: 10   for iteration 284
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 285
+Average Fitness Score: 18790.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 4511.842834142165
+Size of selected subset: 5
+
+Population Size: 10   for iteration 286
+Average Fitness Score: 18586.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4978.8
+Size of selected subset: 5
+
+Population Size: 10   for iteration 287
+Average Fitness Score: 18191.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 3793.5
+Size of selected subset: 5
+
+Population Size: 10   for iteration 288
+Average Fitness Score: 21311.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 6959.039370487855
+Size of selected subset: 5
+
+Population Size: 10   for iteration 289
+Average Fitness Score: 18991.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 4219.294348584844
+Size of selected subset: 5
+
+Population Size: 10   for iteration 290
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 291
+Average Fitness Score: 18418.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 4475.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 292
+Average Fitness Score: 18242.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 3580.5583084206296
+Size of selected subset: 5
+
+Population Size: 10   for iteration 293
+Average Fitness Score: 20335.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4368.9381879353705
+Size of selected subset: 5
+
+Population Size: 10   for iteration 294
+Average Fitness Score: 18886.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 5879.699999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 295
+Average Fitness Score: 17289.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 1088.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 296
+Average Fitness Score: 17332.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 1217.6999999999998
+Size of selected subset: 5
+
+Population Size: 10   for iteration 297
+Average Fitness Score: 19019.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4231.310534574364
+Size of selected subset: 5
+
+Population Size: 10   for iteration 298
+Average Fitness Score: 17891.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 2894.1000000000004
+Size of selected subset: 5
+
+Population Size: 10   for iteration 299
+Average Fitness Score: 19815.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 4950.132282070855
+Size of selected subset: 5
+
+Population Size: 10   for iteration 300
+Average Fitness Score: 20423.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 6837.425857733304
+Size of selected subset: 5
+
+Population Size: 10   for iteration 301
+Average Fitness Score: 18427.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 4501.2
+Size of selected subset: 5
+
+Population Size: 10   for iteration 302
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 303
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 304
+Average Fitness Score: 18586.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4978.8
+Size of selected subset: 5
+
+Population Size: 10   for iteration 305
+Average Fitness Score: 17332.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 1217.6999999999998
+Size of selected subset: 5
+
+Population Size: 10   for iteration 306
+Average Fitness Score: 20087.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 6545.32367496062
+Size of selected subset: 5
+
+Population Size: 10   for iteration 307
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 308
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 309
+Average Fitness Score: 19218.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4756.285529696467
+Size of selected subset: 5
+
+Population Size: 10   for iteration 310
+Average Fitness Score: 19584.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 5333.930559165539
+Size of selected subset: 5
+
+Population Size: 10   for iteration 311
+Average Fitness Score: 19857.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 5863.1076614710055
+Size of selected subset: 5
+
+Population Size: 10   for iteration 312
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 313
+Average Fitness Score: 19014.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 4177.9008317575
+Size of selected subset: 5
+
+Population Size: 10   for iteration 314
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 315
+Average Fitness Score: 18076.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3449.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 316
+Average Fitness Score: 19337.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 6882.8692454528
+Size of selected subset: 5
+
+Population Size: 10   for iteration 317
+Average Fitness Score: 20388.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 5394.342514153138
+Size of selected subset: 5
+
+Population Size: 10   for iteration 318
+Average Fitness Score: 22770.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 8016.329858482621
+Size of selected subset: 5
+
+Population Size: 10   for iteration 319
+Average Fitness Score: 19125.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 4413.925174943499
+Size of selected subset: 5
+
+Population Size: 10   for iteration 320
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 321
+Average Fitness Score: 20846.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 7839.599999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 322
+Average Fitness Score: 18108.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 3204.956725136862
+Size of selected subset: 5
+
+Population Size: 10   for iteration 323
+Average Fitness Score: 19628.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 5443.778702335354
+Size of selected subset: 5
+
+Population Size: 10   for iteration 324
+Average Fitness Score: 19395.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 4987.01836772234
+Size of selected subset: 5
+
+Population Size: 10   for iteration 325
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 326
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 327
+Average Fitness Score: 17945.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 3054.599999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 328
+Average Fitness Score: 17041.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 342.59999999999997
+Size of selected subset: 5
+
+Population Size: 10   for iteration 329
+Average Fitness Score: 18425.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 4496.400000000001
+Size of selected subset: 5
+
+Population Size: 10   for iteration 330
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 331
+Average Fitness Score: 17289.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 1088.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 332
+Average Fitness Score: 18297.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3404.087556159506
+Size of selected subset: 5
+
+Population Size: 10   for iteration 333
+Average Fitness Score: 19230.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 6911.1
+Size of selected subset: 5
+
+Population Size: 10   for iteration 334
+Average Fitness Score: 18840.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3851.5278643675942
+Size of selected subset: 5
+
+Population Size: 10   for iteration 335
+Average Fitness Score: 19700.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 4276.40348423766
+Size of selected subset: 5
+
+Population Size: 10   for iteration 336
+Average Fitness Score: 20467.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 5424.932530456024
+Size of selected subset: 5
+
+Population Size: 10   for iteration 337
+Average Fitness Score: 18786.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 5577.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 338
+Average Fitness Score: 21190.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 8561.783227809496
+Size of selected subset: 5
+
+Population Size: 10   for iteration 339
+Average Fitness Score: 18112.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 3556.8
+Size of selected subset: 5
+
+Population Size: 10   for iteration 340
+Average Fitness Score: 17939.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3038.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 341
+Average Fitness Score: 18831.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 4525.890013025063
+Size of selected subset: 5
+
+Population Size: 10   for iteration 342
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 343
+Average Fitness Score: 21939.3
+Median Fitness Score: 20986
+STD of Fitness Scores: 6345.212447979972
+Size of selected subset: 5
+
+Population Size: 10   for iteration 344
+Average Fitness Score: 20999.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 6530.757629096337
+Size of selected subset: 5
+
+Population Size: 10   for iteration 345
+Average Fitness Score: 17979.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 3157.2
+Size of selected subset: 5
+
+Population Size: 10   for iteration 346
+Average Fitness Score: 18471.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 4265.842708070704
+Size of selected subset: 5
+
+Population Size: 10   for iteration 347
+Average Fitness Score: 20760.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 5307.289726404617
+Size of selected subset: 5
+
+Population Size: 10   for iteration 348
+Average Fitness Score: 22286.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 6792.467346259384
+Size of selected subset: 5
+
+Population Size: 10   for iteration 349
+Average Fitness Score: 18320.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4179.299999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 350
+Average Fitness Score: 19829.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 5269.65528379229
+Size of selected subset: 5
+
+Population Size: 10   for iteration 351
+Average Fitness Score: 19917.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 5981.419899154381
+Size of selected subset: 5
+
+Population Size: 10   for iteration 352
+Average Fitness Score: 18418.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 4475.700000000001
+Size of selected subset: 5
+
+Population Size: 10   for iteration 353
+Average Fitness Score: 21085.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 6740.617719467556
+Size of selected subset: 5
+
+Population Size: 10   for iteration 354
+Average Fitness Score: 19621.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 5401.906463462691
+Size of selected subset: 5
+
+Population Size: 10   for iteration 355
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 356
+Average Fitness Score: 18364.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 3286.846088577925
+Size of selected subset: 5
+
+Population Size: 10   for iteration 357
+Average Fitness Score: 19255.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 5528.718914902438
+Size of selected subset: 5
+
+Population Size: 10   for iteration 358
+Average Fitness Score: 17289.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 1088.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 359
+Average Fitness Score: 17439.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 1224.2341320188718
+Size of selected subset: 5
+
+Population Size: 10   for iteration 360
+Average Fitness Score: 19448.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 5348.700673060701
+Size of selected subset: 5
+
+Population Size: 10   for iteration 361
+Average Fitness Score: 18127.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 3602.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 362
+Average Fitness Score: 21698.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 7827.042366692543
+Size of selected subset: 5
+
+Population Size: 10   for iteration 363
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 364
+Average Fitness Score: 18154.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 3681.6
+Size of selected subset: 5
+
+Population Size: 10   for iteration 365
+Average Fitness Score: 17939.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3038.6999999999994
+Size of selected subset: 5
+
+Population Size: 10   for iteration 366
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 367
+Average Fitness Score: 18191.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 3793.5
+Size of selected subset: 5
+
+Population Size: 10   for iteration 368
+Average Fitness Score: 20283.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 7272.027728907529
+Size of selected subset: 5
+
+Population Size: 10   for iteration 369
+Average Fitness Score: 21069.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 6390.190682600951
+Size of selected subset: 5
+
+Population Size: 10   for iteration 370
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 371
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 372
+Average Fitness Score: 17763.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 2510.4000000000005
+Size of selected subset: 5
+
+Population Size: 10   for iteration 373
+Average Fitness Score: 19620.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 5434.309980117071
+Size of selected subset: 5
+
+Population Size: 10   for iteration 374
+Average Fitness Score: 18001.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3224.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 375
+Average Fitness Score: 17891.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 2894.1000000000004
+Size of selected subset: 5
+
+Population Size: 10   for iteration 376
+Average Fitness Score: 18886.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 5879.699999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 377
+Average Fitness Score: 18801.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 3764.0551590007285
+Size of selected subset: 5
+
+Population Size: 10   for iteration 378
+Average Fitness Score: 19385.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4880.2277037039985
+Size of selected subset: 5
+
+Population Size: 10   for iteration 379
+Average Fitness Score: 19229.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4616.777457274718
+Size of selected subset: 5
+
+Population Size: 10   for iteration 380
+Average Fitness Score: 19373.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 4655.520439220517
+Size of selected subset: 5
+
+Population Size: 10   for iteration 381
+Average Fitness Score: 19639.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 5591.353610710022
+Size of selected subset: 5
+
+Population Size: 10   for iteration 382
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 383
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 384
+Average Fitness Score: 17289.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 1088.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 385
+Average Fitness Score: 17041.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 342.59999999999997
+Size of selected subset: 5
+
+Population Size: 10   for iteration 386
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 387
+Average Fitness Score: 18586.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4978.8
+Size of selected subset: 5
+
+Population Size: 10   for iteration 388
+Average Fitness Score: 17939.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3038.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 389
+Average Fitness Score: 19262.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4900.135655265066
+Size of selected subset: 5
+
+Population Size: 10   for iteration 390
+Average Fitness Score: 18076.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3449.7000000000003
+Size of selected subset: 5
+
+Population Size: 10   for iteration 391
+Average Fitness Score: 21410.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 5518.928015475469
+Size of selected subset: 5
+
+Population Size: 10   for iteration 392
+Average Fitness Score: 19321.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 4901.352258305865
+Size of selected subset: 5
+
+Population Size: 10   for iteration 393
+Average Fitness Score: 20394.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 7008.359397890494
+Size of selected subset: 5
+
+Population Size: 10   for iteration 394
+Average Fitness Score: 18710.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 3937.4742170584427
+Size of selected subset: 5
+
+Population Size: 10   for iteration 395
+Average Fitness Score: 18127.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 3602.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 396
+Average Fitness Score: 19332.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 4990.25357672333
+Size of selected subset: 5
+
+Population Size: 10   for iteration 397
+Average Fitness Score: 19165.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 4485.898705945108
+Size of selected subset: 5
+
+Population Size: 10   for iteration 398
+Average Fitness Score: 20917.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 6131.045999664331
+Size of selected subset: 5
+
+Population Size: 10   for iteration 399
+Average Fitness Score: 17033.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 320.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 400
+Average Fitness Score: 19691.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 5312.500150588234
+Size of selected subset: 5
+
+Population Size: 10   for iteration 401
+Average Fitness Score: 21512.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 7145.683858106234
+Size of selected subset: 5
+
+Population Size: 10   for iteration 402
+Average Fitness Score: 18852.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 3858.4203192498358
+Size of selected subset: 5
+
+Population Size: 10   for iteration 403
+Average Fitness Score: 18541.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 4498.483371092973
+Size of selected subset: 5
+
+Population Size: 10   for iteration 404
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 405
+Average Fitness Score: 18966.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4086.6358829726933
+Size of selected subset: 5
+
+Population Size: 10   for iteration 406
+Average Fitness Score: 18425.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 4496.400000000001
+Size of selected subset: 5
+
+Population Size: 10   for iteration 407
+Average Fitness Score: 19761.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 5445.4053145748485
+Size of selected subset: 5
+
+Population Size: 10   for iteration 408
+Average Fitness Score: 22194.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 6704.528526302203
+Size of selected subset: 5
+
+Population Size: 10   for iteration 409
+Average Fitness Score: 19432.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 4931.4983534418825
+Size of selected subset: 5
+
+Population Size: 10   for iteration 410
+Average Fitness Score: 20546.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 7270.0771282015985
+Size of selected subset: 5
+
+Population Size: 10   for iteration 411
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 412
+Average Fitness Score: 18357.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4290.299999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 413
+Average Fitness Score: 17763.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 2510.4000000000005
+Size of selected subset: 5
+
+Population Size: 10   for iteration 414
+Average Fitness Score: 23446.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 9259.435631289847
+Size of selected subset: 5
+
+Population Size: 10   for iteration 415
+Average Fitness Score: 17979.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 3157.2
+Size of selected subset: 5
+
+Population Size: 10   for iteration 416
+Average Fitness Score: 17940.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 2704.2118925853424
+Size of selected subset: 5
+
+Population Size: 10   for iteration 417
+Average Fitness Score: 20679.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 6789.452905794397
+Size of selected subset: 5
+
+Population Size: 10   for iteration 418
+Average Fitness Score: 18418.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 4475.700000000001
+Size of selected subset: 5
+
+Population Size: 10   for iteration 419
+Average Fitness Score: 18059.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 3035.68757285726
+Size of selected subset: 5
+
+Population Size: 10   for iteration 420
+Average Fitness Score: 21352.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 7116.875550408339
+Size of selected subset: 5
+
+Population Size: 10   for iteration 421
+Average Fitness Score: 18482.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 3528.4181384864237
+Size of selected subset: 5
+
+Population Size: 10   for iteration 422
+Average Fitness Score: 19577.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 5358.228402186677
+Size of selected subset: 5
+
+Population Size: 10   for iteration 423
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 424
+Average Fitness Score: 17332.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 1217.6999999999998
+Size of selected subset: 5
+
+Population Size: 10   for iteration 425
+Average Fitness Score: 18631.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 3688.164253392194
+Size of selected subset: 5
+
+Population Size: 10   for iteration 426
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 427
+Average Fitness Score: 19341.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 4835.594610800206
+Size of selected subset: 5
+
+Population Size: 10   for iteration 428
+Average Fitness Score: 18586.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4978.8
+Size of selected subset: 5
+
+Population Size: 10   for iteration 429
+Average Fitness Score: 20317.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 6882.7204069321315
+Size of selected subset: 5
+
+Population Size: 10   for iteration 430
+Average Fitness Score: 19230.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 6911.1
+Size of selected subset: 5
+
+Population Size: 10   for iteration 431
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 432
+Average Fitness Score: 18786.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 5577.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 433
+Average Fitness Score: 19620.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 5434.309980117071
+Size of selected subset: 5
+
+Population Size: 10   for iteration 434
+Average Fitness Score: 18886.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 5879.699999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 435
+Average Fitness Score: 18586.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4978.8
+Size of selected subset: 5
+
+Population Size: 10   for iteration 436
+Average Fitness Score: 18320.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4179.299999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 437
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 438
+Average Fitness Score: 19748.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 6154.153446250752
+Size of selected subset: 5
+
+Population Size: 10   for iteration 439
+Average Fitness Score: 18586.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4978.8
+Size of selected subset: 5
+
+Population Size: 10   for iteration 440
+Average Fitness Score: 17979.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 3157.2
+Size of selected subset: 5
+
+Population Size: 10   for iteration 441
+Average Fitness Score: 19979.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 6134.412800749554
+Size of selected subset: 5
+
+Population Size: 10   for iteration 442
+Average Fitness Score: 19567.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 5124.129818808263
+Size of selected subset: 5
+
+Population Size: 10   for iteration 443
+Average Fitness Score: 19794.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 5060.674741573499
+Size of selected subset: 5
+
+Population Size: 10   for iteration 444
+Average Fitness Score: 17891.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 2894.1
+Size of selected subset: 5
+
+Population Size: 10   for iteration 445
+Average Fitness Score: 19209.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 4598.499278025385
+Size of selected subset: 5
+
+Population Size: 10   for iteration 446
+Average Fitness Score: 19156.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 4508.517578983142
+Size of selected subset: 5
+
+Population Size: 10   for iteration 447
+Average Fitness Score: 18154.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 3681.6
+Size of selected subset: 5
+
+Population Size: 10   for iteration 448
+Average Fitness Score: 20419.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 6258.863043716487
+Size of selected subset: 5
+
+Population Size: 10   for iteration 449
+Average Fitness Score: 21039.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 6568.354829026824
+Size of selected subset: 5
+
+Population Size: 10   for iteration 450
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 451
+Average Fitness Score: 18196.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 2816.085289901568
+Size of selected subset: 5
+
+Population Size: 10   for iteration 452
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 453
+Average Fitness Score: 20195.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 7189.878944738916
+Size of selected subset: 5
+
+Population Size: 10   for iteration 454
+Average Fitness Score: 18154.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 3681.6
+Size of selected subset: 5
+
+Population Size: 10   for iteration 455
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 456
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 457
+Average Fitness Score: 19604.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 5544.314309272157
+Size of selected subset: 5
+
+Population Size: 10   for iteration 458
+Average Fitness Score: 20501.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 6948.197453296791
+Size of selected subset: 5
+
+Population Size: 10   for iteration 459
+Average Fitness Score: 17788.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 2584.5
+Size of selected subset: 5
+
+Population Size: 10   for iteration 460
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 461
+Average Fitness Score: 18586.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4978.8
+Size of selected subset: 5
+
+Population Size: 10   for iteration 462
+Average Fitness Score: 18886.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 5879.699999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 463
+Average Fitness Score: 18425.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 4496.400000000001
+Size of selected subset: 5
+
+Population Size: 10   for iteration 464
+Average Fitness Score: 18127.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 3602.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 465
+Average Fitness Score: 18427.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 4501.199999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 466
+Average Fitness Score: 18086.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 3137.79785199748
+Size of selected subset: 5
+
+Population Size: 10   for iteration 467
+Average Fitness Score: 17788.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 2584.5
+Size of selected subset: 5
+
+Population Size: 10   for iteration 468
+Average Fitness Score: 18191.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 3793.5
+Size of selected subset: 5
+
+Population Size: 10   for iteration 469
+Average Fitness Score: 19054.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 4254.897461749225
+Size of selected subset: 5
+
+Population Size: 10   for iteration 470
+Average Fitness Score: 18357.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4290.299999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 471
+Average Fitness Score: 17446.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 1557.6
+Size of selected subset: 5
+
+Population Size: 10   for iteration 472
+Average Fitness Score: 18425.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 4496.400000000001
+Size of selected subset: 5
+
+Population Size: 10   for iteration 473
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 474
+Average Fitness Score: 21572.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 7196.907610911788
+Size of selected subset: 5
+
+Population Size: 10   for iteration 475
+Average Fitness Score: 20217.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 5244.945644141606
+Size of selected subset: 5
+
+Population Size: 10   for iteration 476
+Average Fitness Score: 18076.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3449.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 477
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 478
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 479
+Average Fitness Score: 17891.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 2894.1
+Size of selected subset: 5
+
+Population Size: 10   for iteration 480
+Average Fitness Score: 19500.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 5233.945243313116
+Size of selected subset: 5
+
+Population Size: 10   for iteration 481
+Average Fitness Score: 19187.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 4527.7713557555
+Size of selected subset: 5
+
+Population Size: 10   for iteration 482
+Average Fitness Score: 17939.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3038.7000000000003
+Size of selected subset: 5
+
+Population Size: 10   for iteration 483
+Average Fitness Score: 19683.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 5536.200650265487
+Size of selected subset: 5
+
+Population Size: 10   for iteration 484
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 485
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 486
+Average Fitness Score: 18418.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 4475.700000000001
+Size of selected subset: 5
+
+Population Size: 10   for iteration 487
+Average Fitness Score: 19531.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 4379.587473723981
+Size of selected subset: 5
+
+Population Size: 10   for iteration 488
+Average Fitness Score: 17891.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 2894.1000000000004
+Size of selected subset: 5
+
+Population Size: 10   for iteration 489
+Average Fitness Score: 18357.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4290.299999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 490
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 491
+Average Fitness Score: 18320.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4179.299999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 492
+Average Fitness Score: 20625.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 5757.280442187961
+Size of selected subset: 5
+
+Population Size: 10   for iteration 493
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 494
+Average Fitness Score: 19437.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 5130.727676460718
+Size of selected subset: 5
+
+Population Size: 10   for iteration 495
+Average Fitness Score: 19105.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 5048.884882823137
+Size of selected subset: 5
+
+Population Size: 10   for iteration 496
+Average Fitness Score: 18786.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 5577.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 497
+Average Fitness Score: 17763.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 2510.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 498
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 499
+Average Fitness Score: 19933.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 6012.83219789144
+Size of selected subset: 5
+
+Population Size: 10   for iteration 500
+Average Fitness Score: 22573.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 7179.378048271312
+Size of selected subset: 5
+
+Population Size: 10   for iteration 501
+Average Fitness Score: 18345.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 3145.5077110062853
+Size of selected subset: 5
+
+Population Size: 10   for iteration 502
+Average Fitness Score: 21372.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 6793.255715045621
+Size of selected subset: 5
+
+Population Size: 10   for iteration 503
+Average Fitness Score: 19452.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 5168.773970682022
+Size of selected subset: 5
+
+Population Size: 10   for iteration 504
+Average Fitness Score: 17446.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 1557.6
+Size of selected subset: 5
+
+Population Size: 10   for iteration 505
+Average Fitness Score: 18586.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4978.8
+Size of selected subset: 5
+
+Population Size: 10   for iteration 506
+Average Fitness Score: 17939.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3038.6999999999994
+Size of selected subset: 5
+
+Population Size: 10   for iteration 507
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 508
+Average Fitness Score: 19635.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 5460.068995901059
+Size of selected subset: 5
+
+Population Size: 10   for iteration 509
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 510
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 511
+Average Fitness Score: 21892.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 6449.586610783671
+Size of selected subset: 5
+
+Population Size: 10   for iteration 512
+Average Fitness Score: 18154.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 3681.6
+Size of selected subset: 5
+
+Population Size: 10   for iteration 513
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 514
+Average Fitness Score: 17788.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 2584.5
+Size of selected subset: 5
+
+Population Size: 10   for iteration 515
+Average Fitness Score: 18054.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 3019.8884234355414
+Size of selected subset: 5
+
+Population Size: 10   for iteration 516
+Average Fitness Score: 18357.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4290.299999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 517
+Average Fitness Score: 20701.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 5985.590777859776
+Size of selected subset: 5
+
+Population Size: 10   for iteration 518
+Average Fitness Score: 20243.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 7233.959181527084
+Size of selected subset: 5
+
+Population Size: 10   for iteration 519
+Average Fitness Score: 19919.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 5984.630181556753
+Size of selected subset: 5
+
+Population Size: 10   for iteration 520
+Average Fitness Score: 20087.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 6545.32367496062
+Size of selected subset: 5
+
+Population Size: 10   for iteration 521
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 522
+Average Fitness Score: 20811.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 5993.378180125129
+Size of selected subset: 5
+
+Population Size: 10   for iteration 523
+Average Fitness Score: 17289.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 1088.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 524
+Average Fitness Score: 20325.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 5265.465716344566
+Size of selected subset: 5
+
+Population Size: 10   for iteration 525
+Average Fitness Score: 22230.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 8362.573788015266
+Size of selected subset: 5
+
+Population Size: 10   for iteration 526
+Average Fitness Score: 17979.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 3157.2
+Size of selected subset: 5
+
+Population Size: 10   for iteration 527
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 528
+Average Fitness Score: 17289.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 1088.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 529
+Average Fitness Score: 18434.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 4155.206277671423
+Size of selected subset: 5
+
+Population Size: 10   for iteration 530
+Average Fitness Score: 17763.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 2510.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 531
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 532
+Average Fitness Score: 19551.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 5473.77675924037
+Size of selected subset: 5
+
+Population Size: 10   for iteration 533
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 534
+Average Fitness Score: 19798.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 5510.808072324783
+Size of selected subset: 5
+
+Population Size: 10   for iteration 535
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 536
+Average Fitness Score: 18127.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 3602.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 537
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 538
+Average Fitness Score: 20762.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 6035.580808008455
+Size of selected subset: 5
+
+Population Size: 10   for iteration 539
+Average Fitness Score: 18357.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4290.299999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 540
+Average Fitness Score: 17033.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 320.40000000000003
+Size of selected subset: 5
+
+Population Size: 10   for iteration 541
+Average Fitness Score: 18076.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3449.7000000000003
+Size of selected subset: 5
+
+Population Size: 10   for iteration 542
+Average Fitness Score: 18427.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 4501.2
+Size of selected subset: 5
+
+Population Size: 10   for iteration 543
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 544
+Average Fitness Score: 19254.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 4403.426902992714
+Size of selected subset: 5
+
+Population Size: 10   for iteration 545
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 546
+Average Fitness Score: 19437.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 5130.727676460718
+Size of selected subset: 5
+
+Population Size: 10   for iteration 547
+Average Fitness Score: 20745.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 5290.169388592392
+Size of selected subset: 5
+
+Population Size: 10   for iteration 548
+Average Fitness Score: 18320.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4179.299999999998
+Size of selected subset: 5
+
+Population Size: 10   for iteration 549
+Average Fitness Score: 18427.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 4501.199999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 550
+Average Fitness Score: 20325.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 5009.127869200386
+Size of selected subset: 5
+
+Population Size: 10   for iteration 551
+Average Fitness Score: 19502.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 5237.741078938516
+Size of selected subset: 5
+
+Population Size: 10   for iteration 552
+Average Fitness Score: 20703.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 5850.331348735727
+Size of selected subset: 5
+
+Population Size: 10   for iteration 553
+Average Fitness Score: 17289.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 1088.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 554
+Average Fitness Score: 17979.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 3157.2
+Size of selected subset: 5
+
+Population Size: 10   for iteration 555
+Average Fitness Score: 19502.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 5237.741078938516
+Size of selected subset: 5
+
+Population Size: 10   for iteration 556
+Average Fitness Score: 18001.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3224.7000000000003
+Size of selected subset: 5
+
+Population Size: 10   for iteration 557
+Average Fitness Score: 18886.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 5879.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 558
+Average Fitness Score: 17033.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 320.40000000000003
+Size of selected subset: 5
+
+Population Size: 10   for iteration 559
+Average Fitness Score: 18001.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3224.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 560
+Average Fitness Score: 20495.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 7505.190747742525
+Size of selected subset: 5
+
+Population Size: 10   for iteration 561
+Average Fitness Score: 17945.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 3054.6
+Size of selected subset: 5
+
+Population Size: 10   for iteration 562
+Average Fitness Score: 20291.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 5742.446711986103
+Size of selected subset: 5
+
+Population Size: 10   for iteration 563
+Average Fitness Score: 19743.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 6848.345671766285
+Size of selected subset: 5
+
+Population Size: 10   for iteration 564
+Average Fitness Score: 19957.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 4632.567603392314
+Size of selected subset: 5
+
+Population Size: 10   for iteration 565
+Average Fitness Score: 18533.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 3672.229514886018
+Size of selected subset: 5
+
+Population Size: 10   for iteration 566
+Average Fitness Score: 21242.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 6891.917268801187
+Size of selected subset: 5
+
+Population Size: 10   for iteration 567
+Average Fitness Score: 20087.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 6330.017630307202
+Size of selected subset: 5
+
+Population Size: 10   for iteration 568
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 569
+Average Fitness Score: 17891.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 2894.1
+Size of selected subset: 5
+
+Population Size: 10   for iteration 570
+Average Fitness Score: 19864.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 5877.95512146869
+Size of selected subset: 5
+
+Population Size: 10   for iteration 571
+Average Fitness Score: 17033.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 320.40000000000003
+Size of selected subset: 5
+
+Population Size: 10   for iteration 572
+Average Fitness Score: 17939.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3038.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 573
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 574
+Average Fitness Score: 21180.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 7624.295010032075
+Size of selected subset: 5
+
+Population Size: 10   for iteration 575
+Average Fitness Score: 17332.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 1217.6999999999998
+Size of selected subset: 5
+
+Population Size: 10   for iteration 576
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 577
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 578
+Average Fitness Score: 18902.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 4472.905494195021
+Size of selected subset: 5
+
+Population Size: 10   for iteration 579
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 580
+Average Fitness Score: 18357.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4290.299999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 581
+Average Fitness Score: 18191.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 3793.5
+Size of selected subset: 5
+
+Population Size: 10   for iteration 582
+Average Fitness Score: 23862.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 8613.192811031227
+Size of selected subset: 5
+
+Population Size: 10   for iteration 583
+Average Fitness Score: 17834.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 2721.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 584
+Average Fitness Score: 17033.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 320.40000000000003
+Size of selected subset: 5
+
+Population Size: 10   for iteration 585
+Average Fitness Score: 21075.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 5921.246696431419
+Size of selected subset: 5
+
+Population Size: 10   for iteration 586
+Average Fitness Score: 17289.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 1088.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 587
+Average Fitness Score: 19750.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 5647.006105893635
+Size of selected subset: 5
+
+Population Size: 10   for iteration 588
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 589
+Average Fitness Score: 18126.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 2622.8878435800493
+Size of selected subset: 5
+
+Population Size: 10   for iteration 590
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 591
+Average Fitness Score: 18112.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 3556.8
+Size of selected subset: 5
+
+Population Size: 10   for iteration 592
+Average Fitness Score: 17939.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3038.699999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 593
+Average Fitness Score: 20598.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 5765.8689275771785
+Size of selected subset: 5
+
+Population Size: 10   for iteration 594
+Average Fitness Score: 18557.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 2779.9383014736136
+Size of selected subset: 5
+
+Population Size: 10   for iteration 595
+Average Fitness Score: 18357.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4290.299999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 596
+Average Fitness Score: 18427.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 4501.2
+Size of selected subset: 5
+
+Population Size: 10   for iteration 597
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 598
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 599
+Average Fitness Score: 21403.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 5943.399232762342
+Size of selected subset: 5
+
+Population Size: 10   for iteration 600
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 601
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 602
+Average Fitness Score: 17332.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 1217.6999999999998
+Size of selected subset: 5
+
+Population Size: 10   for iteration 603
+Average Fitness Score: 17041.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 342.59999999999997
+Size of selected subset: 5
+
+Population Size: 10   for iteration 604
+Average Fitness Score: 21525.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 5747.606896787566
+Size of selected subset: 5
+
+Population Size: 10   for iteration 605
+Average Fitness Score: 18786.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 5577.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 606
+Average Fitness Score: 18904.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 3956.668199381899
+Size of selected subset: 5
+
+Population Size: 10   for iteration 607
+Average Fitness Score: 18418.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 4475.700000000001
+Size of selected subset: 5
+
+Population Size: 10   for iteration 608
+Average Fitness Score: 22265.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 6634.686777836615
+Size of selected subset: 5
+
+Population Size: 10   for iteration 609
+Average Fitness Score: 19929.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 4659.850256177767
+Size of selected subset: 5
+
+Population Size: 10   for iteration 610
+Average Fitness Score: 20556.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 6415.670315719161
+Size of selected subset: 5
+
+Population Size: 10   for iteration 611
+Average Fitness Score: 18357.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4290.3
+Size of selected subset: 5
+
+Population Size: 10   for iteration 612
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 613
+Average Fitness Score: 20396.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 5846.389484972756
+Size of selected subset: 5
+
+Population Size: 10   for iteration 614
+Average Fitness Score: 17033.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 320.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 615
+Average Fitness Score: 18191.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 3793.5
+Size of selected subset: 5
+
+Population Size: 10   for iteration 616
+Average Fitness Score: 18154.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 3681.6
+Size of selected subset: 5
+
+Population Size: 10   for iteration 617
+Average Fitness Score: 19493.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 5217.594652711152
+Size of selected subset: 5
+
+Population Size: 10   for iteration 618
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 619
+Average Fitness Score: 18076.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3449.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 620
+Average Fitness Score: 18357.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4290.299999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 621
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 622
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 623
+Average Fitness Score: 18112.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 3556.7999999999997
+Size of selected subset: 5
+
+Population Size: 10   for iteration 624
+Average Fitness Score: 18434.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4522.799999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 625
+Average Fitness Score: 18886.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 5879.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 626
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 627
+Average Fitness Score: 18846.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3847.094759685547
+Size of selected subset: 5
+
+Population Size: 10   for iteration 628
+Average Fitness Score: 18127.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 3602.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 629
+Average Fitness Score: 17033.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 320.40000000000003
+Size of selected subset: 5
+
+Population Size: 10   for iteration 630
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 631
+Average Fitness Score: 17033.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 320.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 632
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 633
+Average Fitness Score: 18586.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4978.8
+Size of selected subset: 5
+
+Population Size: 10   for iteration 634
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 635
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 636
+Average Fitness Score: 18320.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4179.3
+Size of selected subset: 5
+
+Population Size: 10   for iteration 637
+Average Fitness Score: 20078.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 6314.144870843557
+Size of selected subset: 5
+
+Population Size: 10   for iteration 638
+Average Fitness Score: 20176.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 5775.747418300077
+Size of selected subset: 5
+
+Population Size: 10   for iteration 639
+Average Fitness Score: 18991.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 4219.294348584844
+Size of selected subset: 5
+
+Population Size: 10   for iteration 640
+Average Fitness Score: 20181.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 7043.438337204352
+Size of selected subset: 5
+
+Population Size: 10   for iteration 641
+Average Fitness Score: 18425.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 4496.400000000001
+Size of selected subset: 5
+
+Population Size: 10   for iteration 642
+Average Fitness Score: 19230.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 6911.099999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 643
+Average Fitness Score: 20514.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 6545.984812081373
+Size of selected subset: 5
+
+Population Size: 10   for iteration 644
+Average Fitness Score: 19914.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 4973.298579413868
+Size of selected subset: 5
+
+Population Size: 10   for iteration 645
+Average Fitness Score: 19691.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 5554.901627391795
+Size of selected subset: 5
+
+Population Size: 10   for iteration 646
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 647
+Average Fitness Score: 18001.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3224.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 648
+Average Fitness Score: 18297.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3404.087556159506
+Size of selected subset: 5
+
+Population Size: 10   for iteration 649
+Average Fitness Score: 18001.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3224.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 650
+Average Fitness Score: 18320.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4179.299999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 651
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 652
+Average Fitness Score: 17289.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 1088.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 653
+Average Fitness Score: 17945.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 3054.6
+Size of selected subset: 5
+
+Population Size: 10   for iteration 654
+Average Fitness Score: 17763.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 2510.4000000000005
+Size of selected subset: 5
+
+Population Size: 10   for iteration 655
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 656
+Average Fitness Score: 17834.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 2721.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 657
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 658
+Average Fitness Score: 18196.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 2816.0852899015676
+Size of selected subset: 5
+
+Population Size: 10   for iteration 659
+Average Fitness Score: 24173.1
+Median Fitness Score: 26574
+STD of Fitness Scores: 7522.022566437832
+Size of selected subset: 5
+
+Population Size: 10   for iteration 660
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 661
+Average Fitness Score: 19636.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 6883.0191660346245
+Size of selected subset: 5
+
+Population Size: 10   for iteration 662
+Average Fitness Score: 19691.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 5554.901627391794
+Size of selected subset: 5
+
+Population Size: 10   for iteration 663
+Average Fitness Score: 18434.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4522.799999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 664
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 665
+Average Fitness Score: 17939.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3038.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 666
+Average Fitness Score: 17788.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 2584.5
+Size of selected subset: 5
+
+Population Size: 10   for iteration 667
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 668
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 669
+Average Fitness Score: 20722.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 7805.217078339333
+Size of selected subset: 5
+
+Population Size: 10   for iteration 670
+Average Fitness Score: 21455.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 7572.306441897344
+Size of selected subset: 5
+
+Population Size: 10   for iteration 671
+Average Fitness Score: 17033.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 320.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 672
+Average Fitness Score: 19599.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 5537.158969182662
+Size of selected subset: 5
+
+Population Size: 10   for iteration 673
+Average Fitness Score: 18635.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 3385.5448616138588
+Size of selected subset: 5
+
+Population Size: 10   for iteration 674
+Average Fitness Score: 21898.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 6543.595850142336
+Size of selected subset: 5
+
+Population Size: 10   for iteration 675
+Average Fitness Score: 18320.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4179.3
+Size of selected subset: 5
+
+Population Size: 10   for iteration 676
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 677
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 678
+Average Fitness Score: 20385.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 6993.817899402299
+Size of selected subset: 5
+
+Population Size: 10   for iteration 679
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 680
+Average Fitness Score: 17763.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 2510.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 681
+Average Fitness Score: 17289.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 1088.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 682
+Average Fitness Score: 20687.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 4633.182717096315
+Size of selected subset: 5
+
+Population Size: 10   for iteration 683
+Average Fitness Score: 19750.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 5990.992339337448
+Size of selected subset: 5
+
+Population Size: 10   for iteration 684
+Average Fitness Score: 19616.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 5211.948350665038
+Size of selected subset: 5
+
+Population Size: 10   for iteration 685
+Average Fitness Score: 20889.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 6207.629854461364
+Size of selected subset: 5
+
+Population Size: 10   for iteration 686
+Average Fitness Score: 19483.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 4298.409491893483
+Size of selected subset: 5
+
+Population Size: 10   for iteration 687
+Average Fitness Score: 19378.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 4882.274158627309
+Size of selected subset: 5
+
+Population Size: 10   for iteration 688
+Average Fitness Score: 18357.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4290.299999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 689
+Average Fitness Score: 18434.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4522.799999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 690
+Average Fitness Score: 21001.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 6336.998358844667
+Size of selected subset: 5
+
+Population Size: 10   for iteration 691
+Average Fitness Score: 17788.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 2584.5
+Size of selected subset: 5
+
+Population Size: 10   for iteration 692
+Average Fitness Score: 17945.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 3054.599999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 693
+Average Fitness Score: 18357.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4290.299999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 694
+Average Fitness Score: 17446.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 1557.6
+Size of selected subset: 5
+
+Population Size: 10   for iteration 695
+Average Fitness Score: 18364.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 3286.846088577924
+Size of selected subset: 5
+
+Population Size: 10   for iteration 696
+Average Fitness Score: 20679.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 6789.452905794397
+Size of selected subset: 5
+
+Population Size: 10   for iteration 697
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 698
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 699
+Average Fitness Score: 18434.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4522.799999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 700
+Average Fitness Score: 20286.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 6766.47938295832
+Size of selected subset: 5
+
+Population Size: 10   for iteration 701
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 702
+Average Fitness Score: 18154.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 3681.6
+Size of selected subset: 5
+
+Population Size: 10   for iteration 703
+Average Fitness Score: 18357.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4290.299999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 704
+Average Fitness Score: 19520.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 5205.5898119233325
+Size of selected subset: 5
+
+Population Size: 10   for iteration 705
+Average Fitness Score: 17834.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 2721.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 706
+Average Fitness Score: 18831.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 4525.890013025063
+Size of selected subset: 5
+
+Population Size: 10   for iteration 707
+Average Fitness Score: 17834.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 2721.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 708
+Average Fitness Score: 21127.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 6461.828100468164
+Size of selected subset: 5
+
+Population Size: 10   for iteration 709
+Average Fitness Score: 19118.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 4422.921397673715
+Size of selected subset: 5
+
+Population Size: 10   for iteration 710
+Average Fitness Score: 18639.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 4423.5854789977775
+Size of selected subset: 5
+
+Population Size: 10   for iteration 711
+Average Fitness Score: 17332.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 1217.6999999999998
+Size of selected subset: 5
+
+Population Size: 10   for iteration 712
+Average Fitness Score: 20195.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 7189.878944738916
+Size of selected subset: 5
+
+Population Size: 10   for iteration 713
+Average Fitness Score: 17891.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 2894.1
+Size of selected subset: 5
+
+Population Size: 10   for iteration 714
+Average Fitness Score: 20650.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 5777.163459691962
+Size of selected subset: 5
+
+Population Size: 10   for iteration 715
+Average Fitness Score: 17979.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 3157.2
+Size of selected subset: 5
+
+Population Size: 10   for iteration 716
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 717
+Average Fitness Score: 17979.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 3157.2
+Size of selected subset: 5
+
+Population Size: 10   for iteration 718
+Average Fitness Score: 19429.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4013.5963038153204
+Size of selected subset: 5
+
+Population Size: 10   for iteration 719
+Average Fitness Score: 19140.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 4447.291626372167
+Size of selected subset: 5
+
+Population Size: 10   for iteration 720
+Average Fitness Score: 17332.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 1217.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 721
+Average Fitness Score: 21256.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 7058.487033352119
+Size of selected subset: 5
+
+Population Size: 10   for iteration 722
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 723
+Average Fitness Score: 18076.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3449.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 724
+Average Fitness Score: 17289.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 1088.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 725
+Average Fitness Score: 19284.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 4811.91398094355
+Size of selected subset: 5
+
+Population Size: 10   for iteration 726
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 727
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 728
+Average Fitness Score: 17289.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 1088.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 729
+Average Fitness Score: 18949.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 4119.309922790467
+Size of selected subset: 5
+
+Population Size: 10   for iteration 730
+Average Fitness Score: 17041.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 342.59999999999997
+Size of selected subset: 5
+
+Population Size: 10   for iteration 731
+Average Fitness Score: 18320.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4179.299999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 732
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 733
+Average Fitness Score: 18876.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 4398.6106908886595
+Size of selected subset: 5
+
+Population Size: 10   for iteration 734
+Average Fitness Score: 18001.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3224.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 735
+Average Fitness Score: 17891.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 2894.1000000000004
+Size of selected subset: 5
+
+Population Size: 10   for iteration 736
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 737
+Average Fitness Score: 20712.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 5720.637524786901
+Size of selected subset: 5
+
+Population Size: 10   for iteration 738
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 739
+Average Fitness Score: 19971.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 6272.614641439404
+Size of selected subset: 5
+
+Population Size: 10   for iteration 740
+Average Fitness Score: 23170.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 7951.633263676085
+Size of selected subset: 5
+
+Population Size: 10   for iteration 741
+Average Fitness Score: 19974.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 5276.308274731491
+Size of selected subset: 5
+
+Population Size: 10   for iteration 742
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 743
+Average Fitness Score: 20623.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 7668.85146289847
+Size of selected subset: 5
+
+Population Size: 10   for iteration 744
+Average Fitness Score: 18425.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 4496.400000000001
+Size of selected subset: 5
+
+Population Size: 10   for iteration 745
+Average Fitness Score: 18076.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3449.7000000000003
+Size of selected subset: 5
+
+Population Size: 10   for iteration 746
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 747
+Average Fitness Score: 18001.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3224.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 748
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 749
+Average Fitness Score: 21044.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 5099.99502842895
+Size of selected subset: 5
+
+Population Size: 10   for iteration 750
+Average Fitness Score: 20729.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 7815.071659940169
+Size of selected subset: 5
+
+Population Size: 10   for iteration 751
+Average Fitness Score: 19341.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 5012.461914069772
+Size of selected subset: 5
+
+Population Size: 10   for iteration 752
+Average Fitness Score: 20092.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 7104.482272481227
+Size of selected subset: 5
+
+Population Size: 10   for iteration 753
+Average Fitness Score: 18596.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 3623.8779904958174
+Size of selected subset: 5
+
+Population Size: 10   for iteration 754
+Average Fitness Score: 18357.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4290.299999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 755
+Average Fitness Score: 17891.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 2894.1
+Size of selected subset: 5
+
+Population Size: 10   for iteration 756
+Average Fitness Score: 17891.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 2894.1
+Size of selected subset: 5
+
+Population Size: 10   for iteration 757
+Average Fitness Score: 18586.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4978.8
+Size of selected subset: 5
+
+Population Size: 10   for iteration 758
+Average Fitness Score: 18625.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 3397.0490149540087
+Size of selected subset: 5
+
+Population Size: 10   for iteration 759
+Average Fitness Score: 18076.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3449.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 760
+Average Fitness Score: 17891.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 2894.1000000000004
+Size of selected subset: 5
+
+Population Size: 10   for iteration 761
+Average Fitness Score: 20087.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 6545.32367496062
+Size of selected subset: 5
+
+Population Size: 10   for iteration 762
+Average Fitness Score: 21393.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 7523.501767794037
+Size of selected subset: 5
+
+Population Size: 10   for iteration 763
+Average Fitness Score: 18710.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 3937.4742170584427
+Size of selected subset: 5
+
+Population Size: 10   for iteration 764
+Average Fitness Score: 22698.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 8994.678713550586
+Size of selected subset: 5
+
+Population Size: 10   for iteration 765
+Average Fitness Score: 17446.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 1557.6
+Size of selected subset: 5
+
+Population Size: 10   for iteration 766
+Average Fitness Score: 19568.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 5338.656100555645
+Size of selected subset: 5
+
+Population Size: 10   for iteration 767
+Average Fitness Score: 17332.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 1217.6999999999998
+Size of selected subset: 5
+
+Population Size: 10   for iteration 768
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 769
+Average Fitness Score: 20656.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 5785.9686561543
+Size of selected subset: 5
+
+Population Size: 10   for iteration 770
+Average Fitness Score: 18886.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 5879.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 771
+Average Fitness Score: 18357.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4290.299999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 772
+Average Fitness Score: 20645.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 7436.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 773
+Average Fitness Score: 19755.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4871.02634872775
+Size of selected subset: 5
+
+Population Size: 10   for iteration 774
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 775
+Average Fitness Score: 18418.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 4475.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 776
+Average Fitness Score: 17560.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 1557.2113665138718
+Size of selected subset: 5
+
+Population Size: 10   for iteration 777
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 778
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 779
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 780
+Average Fitness Score: 17332.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 1217.6999999999998
+Size of selected subset: 5
+
+Population Size: 10   for iteration 781
+Average Fitness Score: 20142.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 4921.41349207725
+Size of selected subset: 5
+
+Population Size: 10   for iteration 782
+Average Fitness Score: 18357.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4290.299999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 783
+Average Fitness Score: 20552.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 7005.145882849265
+Size of selected subset: 5
+
+Population Size: 10   for iteration 784
+Average Fitness Score: 19577.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 5358.228402186678
+Size of selected subset: 5
+
+Population Size: 10   for iteration 785
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 786
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 787
+Average Fitness Score: 19337.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 6882.8692454528
+Size of selected subset: 5
+
+Population Size: 10   for iteration 788
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 789
+Average Fitness Score: 18863.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 3902.0863188812214
+Size of selected subset: 5
+
+Population Size: 10   for iteration 790
+Average Fitness Score: 23264.5
+Median Fitness Score: 22119
+STD of Fitness Scores: 6800.75403539931
+Size of selected subset: 5
+
+Population Size: 10   for iteration 791
+Average Fitness Score: 20160.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 6267.19934340691
+Size of selected subset: 5
+
+Population Size: 10   for iteration 792
+Average Fitness Score: 17891.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 2894.1
+Size of selected subset: 5
+
+Population Size: 10   for iteration 793
+Average Fitness Score: 17033.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 320.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 794
+Average Fitness Score: 19520.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 5205.5898119233325
+Size of selected subset: 5
+
+Population Size: 10   for iteration 795
+Average Fitness Score: 21083.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 6379.882889991007
+Size of selected subset: 5
+
+Population Size: 10   for iteration 796
+Average Fitness Score: 17289.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 1088.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 797
+Average Fitness Score: 18886.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 5879.699999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 798
+Average Fitness Score: 18475.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 3602.1062505151067
+Size of selected subset: 5
+
+Population Size: 10   for iteration 799
+Average Fitness Score: 17446.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 1557.6
+Size of selected subset: 5
+
+Population Size: 10   for iteration 800
+Average Fitness Score: 18076.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3449.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 801
+Average Fitness Score: 18427.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 4501.199999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 802
+Average Fitness Score: 19355.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 4856.358800583005
+Size of selected subset: 5
+
+Population Size: 10   for iteration 803
+Average Fitness Score: 18127.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 3602.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 804
+Average Fitness Score: 17891.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 2894.1
+Size of selected subset: 5
+
+Population Size: 10   for iteration 805
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 806
+Average Fitness Score: 21127.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 6789.104697970123
+Size of selected subset: 5
+
+Population Size: 10   for iteration 807
+Average Fitness Score: 17891.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 2894.1000000000004
+Size of selected subset: 5
+
+Population Size: 10   for iteration 808
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 809
+Average Fitness Score: 17945.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 3054.6
+Size of selected subset: 5
+
+Population Size: 10   for iteration 810
+Average Fitness Score: 17979.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 3157.2000000000003
+Size of selected subset: 5
+
+Population Size: 10   for iteration 811
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 812
+Average Fitness Score: 20813.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 6075.322230960263
+Size of selected subset: 5
+
+Population Size: 10   for iteration 813
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 814
+Average Fitness Score: 18541.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4476.1015225305155
+Size of selected subset: 5
+
+Population Size: 10   for iteration 815
+Average Fitness Score: 18127.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 3602.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 816
+Average Fitness Score: 18320.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4179.299999999998
+Size of selected subset: 5
+
+Population Size: 10   for iteration 817
+Average Fitness Score: 17332.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 1217.6999999999998
+Size of selected subset: 5
+
+Population Size: 10   for iteration 818
+Average Fitness Score: 18801.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 3764.0551590007285
+Size of selected subset: 5
+
+Population Size: 10   for iteration 819
+Average Fitness Score: 20384.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 6706.328295721885
+Size of selected subset: 5
+
+Population Size: 10   for iteration 820
+Average Fitness Score: 19076.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 4299.599999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 821
+Average Fitness Score: 19966.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 5142.387773204195
+Size of selected subset: 5
+
+Population Size: 10   for iteration 822
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 823
+Average Fitness Score: 20248.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 7238.966064984695
+Size of selected subset: 5
+
+Population Size: 10   for iteration 824
+Average Fitness Score: 21337.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 6974.84178745296
+Size of selected subset: 5
+
+Population Size: 10   for iteration 825
+Average Fitness Score: 19493.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 5402.015923708483
+Size of selected subset: 5
+
+Population Size: 10   for iteration 826
+Average Fitness Score: 19941.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4393.916076804381
+Size of selected subset: 5
+
+Population Size: 10   for iteration 827
+Average Fitness Score: 19857.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 5863.1076614710055
+Size of selected subset: 5
+
+Population Size: 10   for iteration 828
+Average Fitness Score: 19092.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 4363.058222164816
+Size of selected subset: 5
+
+Population Size: 10   for iteration 829
+Average Fitness Score: 18586.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4978.8
+Size of selected subset: 5
+
+Population Size: 10   for iteration 830
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 831
+Average Fitness Score: 18518.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 3629.207826785344
+Size of selected subset: 5
+
+Population Size: 10   for iteration 832
+Average Fitness Score: 18427.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 4501.2
+Size of selected subset: 5
+
+Population Size: 10   for iteration 833
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 834
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 835
+Average Fitness Score: 19926.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 5998.401066951092
+Size of selected subset: 5
+
+Population Size: 10   for iteration 836
+Average Fitness Score: 17763.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 2510.4000000000005
+Size of selected subset: 5
+
+Population Size: 10   for iteration 837
+Average Fitness Score: 18788.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4507.182960564171
+Size of selected subset: 5
+
+Population Size: 10   for iteration 838
+Average Fitness Score: 20792.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 6041.6055349550925
+Size of selected subset: 5
+
+Population Size: 10   for iteration 839
+Average Fitness Score: 19827.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 5807.046857913238
+Size of selected subset: 5
+
+Population Size: 10   for iteration 840
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 841
+Average Fitness Score: 20151.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 6633.620975003018
+Size of selected subset: 5
+
+Population Size: 10   for iteration 842
+Average Fitness Score: 18127.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 3602.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 843
+Average Fitness Score: 19683.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 5536.200650265488
+Size of selected subset: 5
+
+Population Size: 10   for iteration 844
+Average Fitness Score: 19668.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 4857.785776462359
+Size of selected subset: 5
+
+Population Size: 10   for iteration 845
+Average Fitness Score: 19967.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 5327.939940539871
+Size of selected subset: 5
+
+Population Size: 10   for iteration 846
+Average Fitness Score: 17788.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 2584.5
+Size of selected subset: 5
+
+Population Size: 10   for iteration 847
+Average Fitness Score: 18418.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 4475.700000000001
+Size of selected subset: 5
+
+Population Size: 10   for iteration 848
+Average Fitness Score: 19140.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 4447.291626372167
+Size of selected subset: 5
+
+Population Size: 10   for iteration 849
+Average Fitness Score: 17939.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3038.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 850
+Average Fitness Score: 17041.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 342.59999999999997
+Size of selected subset: 5
+
+Population Size: 10   for iteration 851
+Average Fitness Score: 19230.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 6911.099999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 852
+Average Fitness Score: 17788.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 2584.5
+Size of selected subset: 5
+
+Population Size: 10   for iteration 853
+Average Fitness Score: 20248.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 7238.966064984696
+Size of selected subset: 5
+
+Population Size: 10   for iteration 854
+Average Fitness Score: 19842.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 5138.3824536521215
+Size of selected subset: 5
+
+Population Size: 10   for iteration 855
+Average Fitness Score: 19288.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 4935.104101232314
+Size of selected subset: 5
+
+Population Size: 10   for iteration 856
+Average Fitness Score: 18076.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3449.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 857
+Average Fitness Score: 18112.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 3556.8
+Size of selected subset: 5
+
+Population Size: 10   for iteration 858
+Average Fitness Score: 19230.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 6911.1
+Size of selected subset: 5
+
+Population Size: 10   for iteration 859
+Average Fitness Score: 17788.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 2584.5
+Size of selected subset: 5
+
+Population Size: 10   for iteration 860
+Average Fitness Score: 20732.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 5834.301439761233
+Size of selected subset: 5
+
+Population Size: 10   for iteration 861
+Average Fitness Score: 21408.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 7300.497462502128
+Size of selected subset: 5
+
+Population Size: 10   for iteration 862
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 863
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 864
+Average Fitness Score: 19509.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 5254.842666531511
+Size of selected subset: 5
+
+Population Size: 10   for iteration 865
+Average Fitness Score: 21212.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 6551.132848599546
+Size of selected subset: 5
+
+Population Size: 10   for iteration 866
+Average Fitness Score: 19151.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 4452.7592748766465
+Size of selected subset: 5
+
+Population Size: 10   for iteration 867
+Average Fitness Score: 17891.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 2894.1
+Size of selected subset: 5
+
+Population Size: 10   for iteration 868
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 869
+Average Fitness Score: 19332.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 4990.253576723331
+Size of selected subset: 5
+
+Population Size: 10   for iteration 870
+Average Fitness Score: 17332.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 1217.6999999999998
+Size of selected subset: 5
+
+Population Size: 10   for iteration 871
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 872
+Average Fitness Score: 17834.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 2721.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 873
+Average Fitness Score: 19167.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4505.75348748686
+Size of selected subset: 5
+
+Population Size: 10   for iteration 874
+Average Fitness Score: 18127.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 3602.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 875
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 876
+Average Fitness Score: 18886.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 5879.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 877
+Average Fitness Score: 17041.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 342.59999999999997
+Size of selected subset: 5
+
+Population Size: 10   for iteration 878
+Average Fitness Score: 20323.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 5901.891818730669
+Size of selected subset: 5
+
+Population Size: 10   for iteration 879
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 880
+Average Fitness Score: 19111.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 4098.760222311132
+Size of selected subset: 5
+
+Population Size: 10   for iteration 881
+Average Fitness Score: 18548.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 4497.6392429807
+Size of selected subset: 5
+
+Population Size: 10   for iteration 882
+Average Fitness Score: 19437.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 5130.727676460718
+Size of selected subset: 5
+
+Population Size: 10   for iteration 883
+Average Fitness Score: 18127.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 3602.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 884
+Average Fitness Score: 20389.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 7229.673608815269
+Size of selected subset: 5
+
+Population Size: 10   for iteration 885
+Average Fitness Score: 19218.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4756.285529696467
+Size of selected subset: 5
+
+Population Size: 10   for iteration 886
+Average Fitness Score: 18482.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 3528.4181384864237
+Size of selected subset: 5
+
+Population Size: 10   for iteration 887
+Average Fitness Score: 19557.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 5286.722206622928
+Size of selected subset: 5
+
+Population Size: 10   for iteration 888
+Average Fitness Score: 20810.2
+Median Fitness Score: 17995
+STD of Fitness Scores: 5165.204116005485
+Size of selected subset: 5
+
+Population Size: 10   for iteration 889
+Average Fitness Score: 18838.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 3860.290871165022
+Size of selected subset: 5
+
+Population Size: 10   for iteration 890
+Average Fitness Score: 19247.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 3690.371418976687
+Size of selected subset: 5
+
+Population Size: 10   for iteration 891
+Average Fitness Score: 19575.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 5354.540392041132
+Size of selected subset: 5
+
+Population Size: 10   for iteration 892
+Average Fitness Score: 19639.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 5591.353610710022
+Size of selected subset: 5
+
+Population Size: 10   for iteration 893
+Average Fitness Score: 19818.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 5788.6272025412045
+Size of selected subset: 5
+
+Population Size: 10   for iteration 894
+Average Fitness Score: 17939.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3038.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 895
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 896
+Average Fitness Score: 21276.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 6752.410159343108
+Size of selected subset: 5
+
+Population Size: 10   for iteration 897
+Average Fitness Score: 21054.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 6336.915155657365
+Size of selected subset: 5
+
+Population Size: 10   for iteration 898
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 899
+Average Fitness Score: 17763.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 2510.4000000000005
+Size of selected subset: 5
+
+Population Size: 10   for iteration 900
+Average Fitness Score: 20323.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 5901.891818730669
+Size of selected subset: 5
+
+Population Size: 10   for iteration 901
+Average Fitness Score: 21365.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 6841.723613973309
+Size of selected subset: 5
+
+Population Size: 10   for iteration 902
+Average Fitness Score: 18345.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 3145.5077110062853
+Size of selected subset: 5
+
+Population Size: 10   for iteration 903
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 904
+Average Fitness Score: 17033.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 320.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 905
+Average Fitness Score: 18434.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4522.799999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 906
+Average Fitness Score: 19230.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 6911.1
+Size of selected subset: 5
+
+Population Size: 10   for iteration 907
+Average Fitness Score: 19249.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 5859.469533157418
+Size of selected subset: 5
+
+Population Size: 10   for iteration 908
+Average Fitness Score: 18586.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4978.8
+Size of selected subset: 5
+
+Population Size: 10   for iteration 909
+Average Fitness Score: 19334.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 4994.2884217874325
+Size of selected subset: 5
+
+Population Size: 10   for iteration 910
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 911
+Average Fitness Score: 19608.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 5172.466684281301
+Size of selected subset: 5
+
+Population Size: 10   for iteration 912
+Average Fitness Score: 18852.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 3858.4203192498358
+Size of selected subset: 5
+
+Population Size: 10   for iteration 913
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 914
+Average Fitness Score: 18320.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4179.299999999998
+Size of selected subset: 5
+
+Population Size: 10   for iteration 915
+Average Fitness Score: 18992.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 4992.392157072599
+Size of selected subset: 5
+
+Population Size: 10   for iteration 916
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 917
+Average Fitness Score: 18320.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4179.299999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 918
+Average Fitness Score: 18434.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4522.799999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 919
+Average Fitness Score: 18191.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 3793.5
+Size of selected subset: 5
+
+Population Size: 10   for iteration 920
+Average Fitness Score: 21607.4
+Median Fitness Score: 17995
+STD of Fitness Scores: 6372.311216505358
+Size of selected subset: 5
+
+Population Size: 10   for iteration 921
+Average Fitness Score: 18427.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 4501.2
+Size of selected subset: 5
+
+Population Size: 10   for iteration 922
+Average Fitness Score: 18154.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 3681.6
+Size of selected subset: 5
+
+Population Size: 10   for iteration 923
+Average Fitness Score: 17289.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 1088.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 924
+Average Fitness Score: 21785.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 5999.693893024877
+Size of selected subset: 5
+
+Population Size: 10   for iteration 925
+Average Fitness Score: 18482.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 3528.4181384864237
+Size of selected subset: 5
+
+Population Size: 10   for iteration 926
+Average Fitness Score: 18305.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 3770.8361420247365
+Size of selected subset: 5
+
+Population Size: 10   for iteration 927
+Average Fitness Score: 19979.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 6134.412800749555
+Size of selected subset: 5
+
+Population Size: 10   for iteration 928
+Average Fitness Score: 18540.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 4471.31544402763
+Size of selected subset: 5
+
+Population Size: 10   for iteration 929
+Average Fitness Score: 18154.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 3681.6
+Size of selected subset: 5
+
+Population Size: 10   for iteration 930
+Average Fitness Score: 18345.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 3145.5077110062853
+Size of selected subset: 5
+
+Population Size: 10   for iteration 931
+Average Fitness Score: 19542.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 5259.890418060057
+Size of selected subset: 5
+
+Population Size: 10   for iteration 932
+Average Fitness Score: 20439.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 5750.904707956826
+Size of selected subset: 5
+
+Population Size: 10   for iteration 933
+Average Fitness Score: 18586.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4978.8
+Size of selected subset: 5
+
+Population Size: 10   for iteration 934
+Average Fitness Score: 17446.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 1557.6
+Size of selected subset: 5
+
+Population Size: 10   for iteration 935
+Average Fitness Score: 19287.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 4931.006064689031
+Size of selected subset: 5
+
+Population Size: 10   for iteration 936
+Average Fitness Score: 18586.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4978.8
+Size of selected subset: 5
+
+Population Size: 10   for iteration 937
+Average Fitness Score: 19264.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4818.33100668686
+Size of selected subset: 5
+
+Population Size: 10   for iteration 938
+Average Fitness Score: 17895.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 2568.711741320929
+Size of selected subset: 5
+
+Population Size: 10   for iteration 939
+Average Fitness Score: 20317.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 6882.7204069321315
+Size of selected subset: 5
+
+Population Size: 10   for iteration 940
+Average Fitness Score: 20283.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 7272.027728907529
+Size of selected subset: 5
+
+Population Size: 10   for iteration 941
+Average Fitness Score: 19423.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 5321.000943431602
+Size of selected subset: 5
+
+Population Size: 10   for iteration 942
+Average Fitness Score: 18886.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 5879.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 943
+Average Fitness Score: 17695.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 1540.4177387968498
+Size of selected subset: 5
+
+Population Size: 10   for iteration 944
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 945
+Average Fitness Score: 19243.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 4658.007566546023
+Size of selected subset: 5
+
+Population Size: 10   for iteration 946
+Average Fitness Score: 18625.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 3397.0490149540087
+Size of selected subset: 5
+
+Population Size: 10   for iteration 947
+Average Fitness Score: 18631.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 3720.996769684166
+Size of selected subset: 5
+
+Population Size: 10   for iteration 948
+Average Fitness Score: 19334.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 4994.2884217874325
+Size of selected subset: 5
+
+Population Size: 10   for iteration 949
+Average Fitness Score: 18786.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 5577.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 950
+Average Fitness Score: 18357.1
+Median Fitness Score: 16927
+STD of Fitness Scores: 4290.299999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 951
+Average Fitness Score: 19156.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 4508.517578983141
+Size of selected subset: 5
+
+Population Size: 10   for iteration 952
+Average Fitness Score: 18816.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 3809.0318139915826
+Size of selected subset: 5
+
+Population Size: 10   for iteration 953
+Average Fitness Score: 17289.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 1088.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 954
+Average Fitness Score: 21715.9
+Median Fitness Score: 17995
+STD of Fitness Scores: 6009.989707977877
+Size of selected subset: 5
+
+Population Size: 10   for iteration 955
+Average Fitness Score: 18196.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 2816.0852899015676
+Size of selected subset: 5
+
+Population Size: 10   for iteration 956
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 957
+Average Fitness Score: 18471.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 4265.842708070704
+Size of selected subset: 5
+
+Population Size: 10   for iteration 958
+Average Fitness Score: 19487.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 5220.194938888777
+Size of selected subset: 5
+
+Population Size: 10   for iteration 959
+Average Fitness Score: 20745.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 7641.131649827794
+Size of selected subset: 5
+
+Population Size: 10   for iteration 960
+Average Fitness Score: 18886.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 5879.699999999999
+Size of selected subset: 5
+
+Population Size: 10   for iteration 961
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 962
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 963
+Average Fitness Score: 18786.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 5577.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 964
+Average Fitness Score: 17834.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 2721.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 965
+Average Fitness Score: 19565.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 4043.5774766906593
+Size of selected subset: 5
+
+Population Size: 10   for iteration 966
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 967
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 968
+Average Fitness Score: 19691.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 5312.500150588234
+Size of selected subset: 5
+
+Population Size: 10   for iteration 969
+Average Fitness Score: 17332.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 1217.6999999999998
+Size of selected subset: 5
+
+Population Size: 10   for iteration 970
+Average Fitness Score: 19316.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 4515.761385414425
+Size of selected subset: 5
+
+Population Size: 10   for iteration 971
+Average Fitness Score: 19626.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 5440.163659302907
+Size of selected subset: 5
+
+Population Size: 10   for iteration 972
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 973
+Average Fitness Score: 19661.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 4685.555420651857
+Size of selected subset: 5
+
+Population Size: 10   for iteration 974
+Average Fitness Score: 18949.4
+Median Fitness Score: 16927
+STD of Fitness Scores: 4119.309922790468
+Size of selected subset: 5
+
+Population Size: 10   for iteration 975
+Average Fitness Score: 17289.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 1088.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 976
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 977
+Average Fitness Score: 18425.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 4496.400000000001
+Size of selected subset: 5
+
+Population Size: 10   for iteration 978
+Average Fitness Score: 18410.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3130.5252099288386
+Size of selected subset: 5
+
+Population Size: 10   for iteration 979
+Average Fitness Score: 19860.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 6124.144094483735
+Size of selected subset: 5
+
+Population Size: 10   for iteration 980
+Average Fitness Score: 17289.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 1088.4
+Size of selected subset: 5
+
+Population Size: 10   for iteration 981
+Average Fitness Score: 20465.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 5552.761151895514
+Size of selected subset: 5
+
+Population Size: 10   for iteration 982
+Average Fitness Score: 19187.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 4527.7713557555
+Size of selected subset: 5
+
+Population Size: 10   for iteration 983
+Average Fitness Score: 20125.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 5167.638223598861
+Size of selected subset: 5
+
+Population Size: 10   for iteration 984
+Average Fitness Score: 20061.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 5496.073188195369
+Size of selected subset: 5
+
+Population Size: 10   for iteration 985
+Average Fitness Score: 19390.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 5069.678791600115
+Size of selected subset: 5
+
+Population Size: 10   for iteration 986
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 987
+Average Fitness Score: 18625.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 3397.0490149540087
+Size of selected subset: 5
+
+Population Size: 10   for iteration 988
+Average Fitness Score: 19626.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 5440.163659302907
+Size of selected subset: 5
+
+Population Size: 10   for iteration 989
+Average Fitness Score: 21032.8
+Median Fitness Score: 16927
+STD of Fitness Scores: 5099.6417285923135
+Size of selected subset: 5
+
+Population Size: 10   for iteration 990
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 991
+Average Fitness Score: 18541.6
+Median Fitness Score: 16927
+STD of Fitness Scores: 4476.1015225305155
+Size of selected subset: 5
+
+Population Size: 10   for iteration 992
+Average Fitness Score: 17332.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 1217.7
+Size of selected subset: 5
+
+Population Size: 10   for iteration 993
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 994
+Average Fitness Score: 22223.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 8354.183299401564
+Size of selected subset: 5
+
+Population Size: 10   for iteration 995
+Average Fitness Score: 20699.5
+Median Fitness Score: 16927
+STD of Fitness Scores: 6686.043632074203
+Size of selected subset: 5
+
+Population Size: 10   for iteration 996
+Average Fitness Score: 19478.2
+Median Fitness Score: 16927
+STD of Fitness Scores: 5199.120171721365
+Size of selected subset: 5
+
+Population Size: 10   for iteration 997
+Average Fitness Score: 16927.0
+Median Fitness Score: 16927
+STD of Fitness Scores: 0.0
+Size of selected subset: 5
+
+Population Size: 10   for iteration 998
+Average Fitness Score: 18840.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3851.5278643675942
+Size of selected subset: 5
+
+Population Size: 10   for iteration 999
+Average Fitness Score: 19077.3
+Median Fitness Score: 16927
+STD of Fitness Scores: 4328.873341875459
+Size of selected subset: 5
+
+Population Size: 10   for iteration 1000
+Average Fitness Score: 17939.9
+Median Fitness Score: 16927
+STD of Fitness Scores: 3038.7000000000003
+Size of selected subset: 5
+
+Population Size: 10   for iteration 1001
+Average Fitness Score: 19864.7
+Median Fitness Score: 16927
+STD of Fitness Scores: 5877.955121468691
+Size of selected subset: 5
+

@@ -1,3 +1,4 @@
+import math
 from random import *
 from individual import Individual
 
@@ -7,7 +8,7 @@ class Population(object):
     #individuals
 
     def __init__(self):
-        self.generations = 1
+        self.generations = 0
         self.totalFitness = 0
         self.individuals = []
         
@@ -51,7 +52,6 @@ class Population(object):
             mInd = Individual()
             mInd.setRepresentation(childRep)
             self.individuals.append(mInd)
-            self.generations = self.generations + 1
 
     def nonRepeatMut(self,mutationCoefficient):
         for ind in self.individuals:
@@ -71,7 +71,27 @@ class Population(object):
                     else:
                         newInd = newInd + ind.representation[i]
                 ind.representation = newInd
+    
+    def getAverage(self):
+        return self.totalFitness/len(self.individuals)
 
-            
+    def getMedian(self):
+        fitnessList = []
+        for ind in self.individuals:
+            fitnessList.append(ind.fitness)
 
+        fitnessList.sort()
+
+        return fitnessList[int(len(fitnessList)/2)]
+
+    def getStandardDeviation(self):
+        mean = self.getAverage()
+        amount = 0
+        for ind in self.individuals:
+            temp = ind.fitness - mean
+            temp = temp * temp
+            amount = amount + temp
+
+        amount = amount/len(self.individuals)
+        return math.sqrt(amount)
         
