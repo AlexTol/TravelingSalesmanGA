@@ -9,6 +9,7 @@ import alexTools
 FILE_NAME = '..\data\cities.txt'
 STREAM_FILE = '..\data\AlexTol_GA_TS_Info.txt'
 SOLUTION_FILE = '..\data\AlexTol_GA_TS_Result.txt'
+ITERATION_FILE = 'iterations.txt'
 cityNames = []
 
 def parseCities():
@@ -114,6 +115,12 @@ def GA(pop,repetitions=1000):
 
     
 if __name__ == "__main__":
+    itFile = open(ITERATION_FILE)
+    iterations = 0
+
+    for line in itFile:
+        iterations = int(line)
+
     global mCities
     mCities = parseCities()
     global sMap
@@ -121,7 +128,7 @@ if __name__ == "__main__":
     
     mPop = generatePopulation()
 
-    GA(mPop,1000)
+    GA(mPop,iterations)
     writeResults(mPop,sMap)
 
     
